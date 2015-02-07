@@ -46,6 +46,8 @@ However, I did not fully understand what was going on as my brother (who is into
 
 Struggling to work with and find all the tools on my camera, I had to Google [how to adjust the Aperature and Shutter Speed](http://photo.net/pentax-camera-forum/00NXn9) after having no success with the manual! (embarrassing)
 
+An article about ISO on [Digital Trends](http://www.digitaltrends.com/photography/what-is-iso-camera-settings-explained/) helped me understand that the lower the ISO the better quality of the image.
+
 
 
 
@@ -94,14 +96,14 @@ http://en.wikipedia.org/wiki/Rise_(sculpture)
 
 Slow shutter speed
 
-http://www.digitalcameraworld.com/2014/02/07/77-photography-techniques-tips-and-tricks-for-taking-pictures-of-anything/5/
+http://www.digitalcameraworld.com/2014/02/07/77-photography-techniques-tips-and-tricks-for-taking-pictures-of-anything/5/ *
 
-http://www.exposureguide.com/night-sky-photography-tips.htm
+http://www.exposureguide.com/night-sky-photography-tips.htm *
 
 Night photography tips
 
 
-http://www.digitalcameraworld.com/2012/02/17/night-photography-tips-9-essential-steps-for-beginners/
+http://www.digitalcameraworld.com/2012/02/17/night-photography-tips-9-essential-steps-for-beginners/ *
 
 Zoom Burst interesting
 
@@ -115,23 +117,23 @@ https://iso.500px.com/cityscape-night-photography-tips/
 
 Learning about Shutter Speed Aperature Exposure and ISO
 
-http://imaging.nikon.com/lineup/dslr/basics/04/02.htm
+http://imaging.nikon.com/lineup/dslr/basics/04/02.htm *
 
-http://photo.net/pentax-camera-forum/00NXn9 discovering how to actually get the priority modes
+http://photo.net/pentax-camera-forum/00NXn9 discovering how to actually get the priority modes *
 
-Learning ISO http://www.digitaltrends.com/photography/what-is-iso-camera-settings-explained/
+Learning ISO http://www.digitaltrends.com/photography/what-is-iso-camera-settings-explained/ *
 
 Tips
 
-http://www.fotoblur.com/blog/1/architecture-photography-tips
+http://www.fotoblur.com/blog/1/architecture-photography-tips *
 
-http://digital-photography-school.com/photographing-architecture/
+http://digital-photography-school.com/photographing-architecture/ *
 
 http://www.digitalcameraworld.com/2012/04/24/16-tips-for-abstract-architecture-photography/
+ *
+http://www.photographymad.com/pages/view/guide-to-architectural-photography NOT JUST ABOUT BUILDINGS *
 
-http://www.photographymad.com/pages/view/guide-to-architectural-photography NOT JUST ABOUT BUILDINGS
-
-Long exposure http://www.bwvision.com/ultimate-guide-long-exposure-photography/
+Long exposure http://www.bwvision.com/ultimate-guide-long-exposure-photography/ *
 
 Viewpoints camera angles https://urbantimes.co/2012/04/viewpoints-and-camera-angles/
 
