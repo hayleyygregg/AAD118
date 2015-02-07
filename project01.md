@@ -15,7 +15,7 @@ Our first project was to photograph architechture of our choice using the method
 
 * http://www.digitalcameraworld.com/2012/04/24/16-tips-for-abstract-architecture-photography/
 
-One of the articles that interested me was the heading ['It's not just about buildings'](http://www.photographymad.com/pages/view/guide-to-architectural-photography) which states that when we think of arcitechture we automatically think of buildings, but other 'man-made structures' are considered architecture such as 'bridges, towers, windmills, monuments' etc. When I read this I got the idea of the sculpture at Broadway in Belfast called 'Rise'. I love this sculpture as it is so eyecatching, especially at night when it lights up, and it also has a lot of detail.
+One of the articles that interested me was the heading ['It's not just about buildings'](http://www.photographymad.com/pages/view/guide-to-architectural-photography) which states that when we think of arcitechture we automatically think of buildings, but other 'man-made structures' are considered architecture such as 'bridges, towers, windmills, monuments' etc. When I read this I got the idea of the sculpture at Broadway in Belfast called '[Rise](http://en.wikipedia.org/wiki/Rise_(sculpture))'. I love this sculpture as it is so eyecatching, especially at night when it lights up, and it also has a lot of detail.
 
 With this idea in mind, I also started to research [photographing at night](http://www.digitalcameraworld.com/2012/02/17/night-photography-tips-9-essential-steps-for-beginners/), as some of the websites I found that provided tips suggested photographing architecture at night as sometimes they become more alive.
 
@@ -44,10 +44,16 @@ However, I did not fully understand what was going on as my brother (who is into
 ) which used animations to show the relationship of Shutter Speed and Aperature and this helped me to understand what happens inside the camera during the task of capturing a photo.
 
 
-Struggling to work with and find all the tools on my camera, I had to Google [how to adjust the Aperature and Shutter Speed](http://photo.net/pentax-camera-forum/00NXn9) after having no success with the manual! (embarrassing)
+Struggling to work with and find all the tools on my camera, I had to Google [how to adjust the Aperature and Shutter Speed](http://photo.net/pentax-camera-forum/00NXn9) after having no success with the manual! (embarrassing) I found a nice article which was about [photographing cityscapes at night](https://iso.500px.com/cityscape-night-photography-tips/), even though I'm not photographing a cityscape, it still gives some handy tips and also mentions 'light trails' which involves long exposure.
 
-An article about ISO on [Digital Trends](http://www.digitaltrends.com/photography/what-is-iso-camera-settings-explained/) helped me understand that the lower the ISO the better quality of the image.
+An article about ISO on [Digital Trends](http://www.digitaltrends.com/photography/what-is-iso-camera-settings-explained/) helped me understand that the lower the ISO the better quality of the image. I also took composition into consideration, but the term 'composition' doesn't spring anything to my mind, so I decided to research it and I found an article of helpful tips '[7 Rules of Composition](https://urbantimes.co/2011/10/the-art-of-photography-accidental-composition/)' which helped jog my memory in preparation for taking photos. Looking back at the breif I decided to read about [viewpoints](https://urbantimes.co/2012/04/viewpoints-and-camera-angles/) which helped me to trash the idea of just taking a normal/common photo and do something different using angles. Someone who does this well and inspired me was Richard Weston, some examples include the [Ulster Museum](https://www.flickr.com/photos/acejet170/sets/72157623516856557) and [Ferry](https://www.flickr.com/photos/acejet170/sets/72157630663211464/). I actually like a lot of his photos, I like the image below because by the tree being upside down it makes for a more interesting image, which is what Weston is all about.
 
+![Upside down Tree](https://farm8.staticflickr.com/7476/15772957159_409d901b94_o.jpg)
+
+When looking at different photography techniques I came across [Zoom Bursts](http://www.digitalcameraworld.com/2012/07/11/4-ways-to-make-more-creative-zoom-burst-photos/) which can make a really interesting photo and how using long shutter speeds you can actually [capture the earth rotating](http://www.exposureguide.com/night-sky-photography-tips.htm)!
+
+
+![Star Trail](http://www.exposureguide.com/images/night-sky-photography-tips/night-sky-photography3.jpg)
 
 
 
@@ -87,59 +93,8 @@ Good photographer stand infront of god stuff
 
 http://photography.nationalgeographic.com/photography/photo-tips/photo-research-richardson/
 
-Rise
-
-http://www.belfastcity.gov.uk/tourism-venues/culture/publicart.aspx
-
-http://en.wikipedia.org/wiki/Rise_(sculpture)
 
 
-Slow shutter speed
-
-http://www.digitalcameraworld.com/2014/02/07/77-photography-techniques-tips-and-tricks-for-taking-pictures-of-anything/5/ *
-
-http://www.exposureguide.com/night-sky-photography-tips.htm *
-
-Night photography tips
 
 
-http://www.digitalcameraworld.com/2012/02/17/night-photography-tips-9-essential-steps-for-beginners/ *
 
-Zoom Burst interesting
-
-http://www.digitalcameraworld.com/2012/07/11/4-ways-to-make-more-creative-zoom-burst-photos/
-
-
-Nice article
-
-https://iso.500px.com/cityscape-night-photography-tips/
-
-
-Learning about Shutter Speed Aperature Exposure and ISO
-
-http://imaging.nikon.com/lineup/dslr/basics/04/02.htm *
-
-http://photo.net/pentax-camera-forum/00NXn9 discovering how to actually get the priority modes *
-
-Learning ISO http://www.digitaltrends.com/photography/what-is-iso-camera-settings-explained/ *
-
-Tips
-
-http://www.fotoblur.com/blog/1/architecture-photography-tips *
-
-http://digital-photography-school.com/photographing-architecture/ *
-
-http://www.digitalcameraworld.com/2012/04/24/16-tips-for-abstract-architecture-photography/
- *
-http://www.photographymad.com/pages/view/guide-to-architectural-photography NOT JUST ABOUT BUILDINGS *
-
-Long exposure http://www.bwvision.com/ultimate-guide-long-exposure-photography/ *
-
-Viewpoints camera angles https://urbantimes.co/2012/04/viewpoints-and-camera-angles/
-
-Composition rules https://urbantimes.co/2011/10/the-art-of-photography-accidental-composition/
-
-
-Inspo https://www.flickr.com/photos/acejet170/sets/72157623516856557
-
-https://www.flickr.com/photos/acejet170/sets/72157630663211464/
