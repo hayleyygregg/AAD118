@@ -146,9 +146,12 @@ I chose two from the list, and taking the advice given in class, I decided to en
 
 ![Email](images/email.jpg)
 
+
 I was very pleased to hear from Susan Smith (Booking & Sales Co-ordinator) after two hours of sending the email! So that week I booked in and when I nervously arrived I was warmly greeted and happily left to do what I had to do!
 
-However, it hit me the day before the shoot that I had only researched and been advised by my brother how to shoot at night! So I had to then begin and learn the reccommended settings and advice for shooting during the day! (I also looked into foggy weather as I wasn't sure what the weather would be since it is so unpredictable!) 
+The reason I chose the Causeway Centre is because I thought it would be something no one else would think of as it is relativly new, and I wanted to be different. I also came across an [article](http://www.dezeen.com/2012/10/18/giants-causeway-visitors-centre-by-heneghan-peng-architects/) which had really nice photos of the Centre.
+
+The day before the shoot it hit me that I had only researched and been advised by my brother how to shoot at night! So I had to then begin and learn the reccommended settings and advice for shooting during the day! (I also looked into foggy weather as I wasn't sure what the weather would be since it is so unpredictable!) 
 
 Here are two websites that helped me:
 
@@ -156,22 +159,13 @@ Here are two websites that helped me:
 
 * http://digital-photography-school.com/moving-toward-manual-settings-understanding-basic-daylight-exposure-and-equivelant-exposure/
 
+I also learned about the [Sunny 16 rule](http://en.wikipedia.org/wiki/Sunny_16_rule) that other websites had mentioned, which provides reccomendations for what the aperture should be set to in certain conditions.
 
-Sunny 16 Rule
-
-http://en.wikipedia.org/wiki/Sunny_16_rule
-
-
-Shooting during day:
-
-http://digital-photography-school.com/bright-ideas-for-shooting-in-midday-sun/
-
-http://digital-photography-school.com/moving-toward-manual-settings-understanding-basic-daylight-exposure-and-equivelant-exposure/
+Unfortunatly as I took so long taking photos of the building I didn't get a chance to take some of the Causeway or the building at night! (As of course the day of the shoot the sun didnt set until later than usual) However, I was confident I had enough photos to work with.
 
 
-Causeway Center:
 
-http://www.dezeen.com/2012/10/18/giants-causeway-visitors-centre-by-heneghan-peng-architects/
+
 
 Belfast Photographers:
 
