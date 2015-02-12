@@ -6,6 +6,9 @@ Photography
 -----------
 
 
+###Research
+
+
 Our first project was to photograph architechture of our choice using the methods of 'Macro' & 'Micro'. Before I began to think of what architecture I could photograph, I researched about photographing architecture to give me ideas and tips:
 
 
@@ -31,6 +34,9 @@ For Christmas I was amazed to recieve a Pentax S-K1 from my parents!
 ![SLR Camera](https://scontent-a-lhr.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10888786_10204088186378906_2164244801196653823_n.jpg?oh=8f4d7666b8757feb6fe95b4b5e5ab79e&oe=55592D9C)
 
 
+###Learning Photography
+
+
 I'm not big into photography myself, but the work of others does interest me. Therefore I thought this project would be the perfect chance for me to use it! Only thing is, I'm a complete novice to photography, therefore I had to try and learn about Aperature, Exposure, Shutter Speeds and ISO, which I find confusing!
 
 
@@ -46,15 +52,95 @@ However, I did not fully understand what was going on as my brother (who is into
 
 Struggling to work with and find all the tools on my camera, I had to Google [how to adjust the Aperature and Shutter Speed](http://photo.net/pentax-camera-forum/00NXn9) after having no success with the manual! (embarrassing) I found a nice article which was about [photographing cityscapes at night](https://iso.500px.com/cityscape-night-photography-tips/), even though I'm not photographing a cityscape, it still gives some handy tips and also mentions 'light trails' which involves long exposure.
 
-An article about ISO on [Digital Trends](http://www.digitaltrends.com/photography/what-is-iso-camera-settings-explained/) helped me understand that the lower the ISO the better quality of the image. I also took composition into consideration, but the term 'composition' doesn't spring anything to my mind, so I decided to research it and I found an article of helpful tips '[7 Rules of Composition](https://urbantimes.co/2011/10/the-art-of-photography-accidental-composition/)' which helped jog my memory in preparation for taking photos. Looking back at the breif I decided to read about [viewpoints](https://urbantimes.co/2012/04/viewpoints-and-camera-angles/) which helped me to trash the idea of just taking a normal/common photo and do something different using angles. Someone who does this well and inspired me was Richard Weston, some examples include the [Ulster Museum](https://www.flickr.com/photos/acejet170/sets/72157623516856557) and [Ferry](https://www.flickr.com/photos/acejet170/sets/72157630663211464/). I actually like a lot of his photos, I like the image below because by the tree being upside down it makes for a more interesting image, which is what Weston is all about.
+An article about ISO on [Digital Trends](http://www.digitaltrends.com/photography/what-is-iso-camera-settings-explained/) helped me understand that the lower the ISO the better quality of the image. I also took composition into consideration, but the term 'composition' doesn't spring anything to my mind, so I decided to research it and I found an article of helpful tips '[7 Rules of Composition](https://urbantimes.co/2011/10/the-art-of-photography-accidental-composition/)' which helped jog my memory in preparation for taking photos. Looking back at the breif I decided to read about [viewpoints](https://urbantimes.co/2012/04/viewpoints-and-camera-angles/) which helped me to trash the idea of just taking a normal/common photo and do something different using angles. 
 
-![Upside down Tree](https://farm8.staticflickr.com/7476/15772957159_409d901b94_o.jpg)
 
 When looking at different photography techniques I came across [Zoom Bursts](http://www.digitalcameraworld.com/2012/07/11/4-ways-to-make-more-creative-zoom-burst-photos/) which can make a really interesting photo and how using long shutter speeds you can actually [capture the earth rotating](http://www.exposureguide.com/night-sky-photography-tips.htm)!
 
 
 ![Star Trail](http://www.exposureguide.com/images/night-sky-photography-tips/night-sky-photography3.jpg)
 
+
+
+###Inspiration
+
+
+Someone who is the perfect example of good composition using different viewpoints and inspired me was Richard Weston, some examples include the [Ulster Museum](https://www.flickr.com/photos/acejet170/sets/72157623516856557) and [Ferry](https://www.flickr.com/photos/acejet170/sets/72157630663211464/). I actually like a lot of his photos, I like the image below because by the tree being upside down it makes for a more interesting image, which is what Weston is all about.
+
+![Upside down Tree](https://farm8.staticflickr.com/7476/15772957159_409d901b94_o.jpg)
+
+####Unsplash Inpiration
+
+#####Thomas Holtkötter
+
+
+I find Thomas's images inspiring as he uses a variety of viewpoints to make some striking and interesting images which I love:
+
+
+![](http://nykyinen.com/wp-content/uploads/2012/03/02/Foto_Holtkoetter_Outer_Shapes_2_02.jpg)
+
+
+![](http://1.bp.blogspot.com/__ZHFY0t7f2A/TPb2cKI4ZEI/AAAAAAAAAEo/fmV8LzZrlP0/s1600/Picture%2B2.png)
+
+
+![](http://www.fotoblur.com/imgs/0/0/0/1/0/5/9/7721.jpg?v=0)
+
+
+The image below made me think of what I could do with the Rise sculpture:
+
+
+![](https://c2.staticflickr.com/6/5097/5391097787_8017106b92.jpg)
+
+
+
+#####Keith Misner
+
+
+I find this image very interesting because of the focal point:
+
+
+![](https://unsplash.imgix.net/reserve/URG2BbWQQ9SAcqLuTOLp_BP7A9947.jpg?dpr=2&fit=crop&fm=jpg&h=700&q=75&w=1050)
+
+
+
+#####Matthew Wiebe
+
+
+![](https://ununsplash.imgix.net/uploads/14127101912749510b8ed/82743738?dpr=2&fit=crop&fm=jpg&h=700&q=75&w=1050)
+
+
+#####Mika Ruusunen
+
+This image is similar to Thomas's and I actually think it might be the same building, it too reminded me of the Rise sculpture:
+
+![](https://unsplash.imgix.net/reserve/nTr1589kTgyXCOdStCGm_MikaRuusunen.jpg?q=75&fm=jpg&s=ebc5195bf9546b2a2f21d8df6fd40fe1)
+
+
+####Local Photographers
+
+
+
+Photographer from 
+
+http://www.axelantas.net/shaped-views/
+
+http://www.axelantas.net/obstructed-views/
+
+http://www.magnumphotos.com/C.aspx?VP3=SearchDetail&VBID=&PN=1&IID=2K7O3R9710H2
+
+shutterblink bro
+
+
+
+The Rise was just one idea I had for the project, I had a whole list:
+
+* Mossley Mill
+* Ballyclare Leisure Center
+* New Ulster University construction in Belfast (too common)
+* A windmill
+* Knockagh Monument
+* The Palm House at Botanic Gardens
+* The Causeway Center
 
 
 Sunny 16 Rule
@@ -81,17 +167,7 @@ http://neilharrisonphotography.com/wp/farrans-construction/
 
 http://neilharrisonphotography.com/wp/holiday-time-in-canada/ I like his river photo
 
-Photographer from 
 
-http://www.axelantas.net/shaped-views/
-
-http://www.axelantas.net/obstructed-views/
-
-http://www.magnumphotos.com/C.aspx?VP3=SearchDetail&VBID=&PN=1&IID=2K7O3R9710H2
-
-Good photographer stand infront of god stuff
-
-http://photography.nationalgeographic.com/photography/photo-tips/photo-research-richardson/
 
 
 
