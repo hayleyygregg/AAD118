@@ -142,6 +142,20 @@ The Rise was just one idea I had for the project, I had a whole list:
 * The Palm House at Botanic Gardens
 * The Causeway Center
 
+I chose two from the list, and taking the advice given in class, I decided to enquire about photographing both of the buildings, just like I had for Rise. Below is a screenshot of the email I sent to both Belfast City and the Causeway Centre:
+
+![Email](images/email.jpg)
+
+I was very pleased to hear from Susan Smith (Booking & Sales Co-ordinator) after two hours of sending the email! So that week I booked in and when I nervously arrived I was warmly greeted and happily left to do what I had to do!
+
+However, it hit me the day before the shoot that I had only researched and been advised by my brother how to shoot at night! So I had to then begin and learn the reccommended settings and advice for shooting during the day! (I also looked into foggy weather as I wasn't sure what the weather would be since it is so unpredictable!) 
+
+Here are two websites that helped me:
+
+* http://digital-photography-school.com/bright-ideas-for-shooting-in-midday-sun/ 
+
+* http://digital-photography-school.com/moving-toward-manual-settings-understanding-basic-daylight-exposure-and-equivelant-exposure/
+
 
 Sunny 16 Rule
 
