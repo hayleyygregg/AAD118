@@ -116,19 +116,47 @@ This image is similar to Thomas's and I actually think it might be the same buil
 ![](https://unsplash.imgix.net/reserve/nTr1589kTgyXCOdStCGm_MikaRuusunen.jpg?q=75&fm=jpg&s=ebc5195bf9546b2a2f21d8df6fd40fe1)
 
 
+#####Axel Antas
+
+I found Axel Antas on Unsplash and decided to have a look at his website. I found really cool pictures of trees, '[Shaped Views](http://www.axelantas.net/shaped-views/)', which were in pairs, displayed a bit like spot the difference. I realised from the caption that Antas had 'temporarily altered the shape of a tree top by tying ropes to various branches and pulling them to one side' and although we have the ability (in this age) to do this digitally, the emphasis was the physical process involved, which I found very inspiring.
+
+![Trees](images/trees.jpg)
+
+
+Another of Antas work was [Obstructed Views](http://www.axelantas.net/obstructed-views/) which I thought was pretty cool because of this figure that is placed in a number of scenarios
+
+![Blurred Figure standing on Cliff](images/cliff.jpg)
+
+
+####Magnum Photos
+
+I took a look at Magnum Photos and I liked the photo below by Christopher Anderson and thought I should add it as it includes Architecture even though it is not the focal point in the shot:
+
+![Figure in Focus](http://www.magnumphotos.com/CorexDoc/MAG/Media/TR2/0/6/4/c/NYC62246.jpg)
+
+
+
+<!-- http://www.magnumphotos.com/C.aspx?VP3=SearchDetail&VBID=&PN=1&IID=2K7O3R9710H2 --> 
+
+
 ####Local Photographers
 
 
 
-Photographer from 
 
-http://www.axelantas.net/shaped-views/
-
-http://www.axelantas.net/obstructed-views/
-
-http://www.magnumphotos.com/C.aspx?VP3=SearchDetail&VBID=&PN=1&IID=2K7O3R9710H2
 
 shutterblink bro
+
+
+
+Belfast Photographers:
+
+http://www.brianmorrison.co.uk/portfolio/architecture-landscapes/index.html
+
+http://neilharrisonphotography.com/wp/farrans-construction/
+
+http://neilharrisonphotography.com/wp/holiday-time-in-canada/ I like his river photo
+
 
 
 
@@ -166,14 +194,6 @@ Unfortunatly as I took so long taking photos of the building I didn't get a chan
 
 
 
-
-Belfast Photographers:
-
-http://www.brianmorrison.co.uk/portfolio/architecture-landscapes/index.html
-
-http://neilharrisonphotography.com/wp/farrans-construction/
-
-http://neilharrisonphotography.com/wp/holiday-time-in-canada/ I like his river photo
 
 
 
