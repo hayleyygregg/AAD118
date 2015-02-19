@@ -29,12 +29,14 @@ With this idea in mind, I also started to research [photographing at night](http
 * http://www.digitalcameraworld.com/2014/02/07/77-photography-techniques-tips-and-tricks-for-taking-pictures-of-anything/5/
 
 
+
+###Learning Photography
+
+
 For Christmas I was amazed to recieve a Pentax S-K1 from my parents! 
 
 ![SLR Camera](https://scontent-a-lhr.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10888786_10204088186378906_2164244801196653823_n.jpg?oh=8f4d7666b8757feb6fe95b4b5e5ab79e&oe=55592D9C)
 
-
-###Learning Photography
 
 
 I'm not big into photography myself, but the work of others does interest me. Therefore I thought this project would be the perfect chance for me to use it! Only thing is, I'm a complete novice to photography, therefore I had to try and learn about Aperature, Exposure, Shutter Speeds and ISO, which I find confusing!
@@ -141,21 +143,50 @@ I took a look at Magnum Photos and I liked the photo below by Christopher Anders
 
 ####Local Photographers
 
+I researched some photographers in Belfast, specifically trying to find those that photographed architecture. Below are some of the photographers I found and images I like from them:
+
+
+* [Brian Morrison](http://www.brianmorrison.co.uk/portfolio/architecture-landscapes/index.html)
+
+![Architecture](http://www.brianmorrison.co.uk/portfolio-images/architecture-landscapes/large/001-WR8Z6227.jpg)
+
+![Trees](http://www.brianmorrison.co.uk/portfolio-images/architecture-landscapes/large/WR8Z8149.jpg)
+
+![Stone](http://www.brianmorrison.co.uk/portfolio-images/architecture-landscapes/large/WP9X6007.jpg)
+
+
+* [Neil Harrison](http://neilharrisonphotography.com/wp/farrans-construction/
+)
+
+![Coloured Boxes](http://neilharrisonphotography.com/wp/wp-content/uploads/2014/07/Farrans-2912.jpg)
+
+
+![Construction](http://neilharrisonphotography.com/wp/wp-content/uploads/2014/07/Farrans-6782.jpg)
+
+
+![River](http://neilharrisonphotography.com/wp/wp-content/uploads/2012/07/Canada-26-1024x607.jpg) (This image inspired me to look into long exposure photography)
 
 
 
+*[Shutterblink](http://www.shutterblink.co.uk)
 
-shutterblink bro
+This is my brothers website. I look up to him for inspiration as over the years he has become very passionate about photography, I always ask him for tips and actually borrowed his tripod for this project! He is very passionate about taking photographs that do not involve extreme editing on Photoshop, he believes the efoort should be put into the settings used to get the best quality photograph. So for this project, I decided to see if he had any images specifically on architecture. 
+
+The closest I could find was images on construction which inspired me to really think about what to capture in the frame:
+
+
+![Construction](images/shutterblink.jpg)
+
+
+![Construction](images/shutterblink2.jpg)
 
 
 
-Belfast Photographers:
+![Construction](images/shutterblink3.jpg)
 
-http://www.brianmorrison.co.uk/portfolio/architecture-landscapes/index.html
 
-http://neilharrisonphotography.com/wp/farrans-construction/
 
-http://neilharrisonphotography.com/wp/holiday-time-in-canada/ I like his river photo
+![Construction](images/shutterblink4.jpg)
 
 
 
@@ -190,6 +221,8 @@ Here are two websites that helped me:
 I also learned about the [Sunny 16 rule](http://en.wikipedia.org/wiki/Sunny_16_rule) that other websites had mentioned, which provides reccomendations for what the aperture should be set to in certain conditions.
 
 Unfortunatly as I took so long taking photos of the building I didn't get a chance to take some of the Causeway or the building at night! (As of course the day of the shoot the sun didnt set until later than usual) However, I was confident I had enough photos to work with.
+
+Overall I am very pleased with the results of my [Rise](https://www.flickr.com/photos/hayleygregg/sets/72157650336010408/) and [Causeway Visitor Centre](https://www.flickr.com/photos/hayleygregg/sets/72157648413214674/) photos! However, the hard part is choosing the 6 Macro and Micro!
 
 
 
