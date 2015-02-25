@@ -168,7 +168,7 @@ I researched some photographers in Belfast, specifically trying to find those th
 
 
 
-*[Shutterblink](http://www.shutterblink.co.uk)
+* [Shutterblink](http://www.shutterblink.co.uk)
 
 This is my brothers website. I look up to him for inspiration as over the years he has become very passionate about photography, I always ask him for tips and actually borrowed his tripod for this project! He is very passionate about taking photographs that do not involve extreme editing on Photoshop, he believes the efoort should be put into the settings used to get the best quality photograph. So for this project, I decided to see if he had any images specifically on architecture. 
 
@@ -189,6 +189,8 @@ The closest I could find was images on construction which inspired me to really 
 ![Construction](images/shutterblink4.jpg)
 
 
+
+###Choosing the location
 
 
 The Rise was just one idea I had for the project, I had a whole list:
