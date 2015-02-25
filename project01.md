@@ -224,6 +224,23 @@ Unfortunatly as I took so long taking photos of the building I didn't get a chan
 
 Overall I am very pleased with the results of my [Rise](https://www.flickr.com/photos/hayleygregg/sets/72157650336010408/) and [Causeway Visitor Centre](https://www.flickr.com/photos/hayleygregg/sets/72157648413214674/) photos! However, the hard part is choosing the 6 Macro and Micro!
 
+###Decision Time
+
+Finally I have made a decision on what photos to use for submission! For over a week I kept looking at both the Rise and Causeway Centre photos and I just couldn't make up my mind! I'm not that good at making decisions so I asked for Richard Westons advice, showing him the photos I had taken. We both love the Rise photos but he advised me that I had more to work with using the Causeway photos, and he actually inspired me to revisit some of the photos I had already edited or hadn't used and see if I could crop into them even more, or change the orientation to portrait instead of landscape or vise versa. He also helped me with Photoshop as I don't really know much about retouching and tend to just play around with the brightness, contrast, vibrance and saturation levels.
+
+[Flickr Collection](https://www.flickr.com/photos/hayleygregg/collections/72157650571663437/)
+
+
+
+Book Covers
+----------------
+
+http://jilliantamaki.com/embroidery-textiles/penguin-threads/ 
+
+http://www.penguin.co.uk/recommends/penguin-selections/puffin-classics/
+
+http://www.goodreads.com/list/show/32925.90s_Kids
+
 
 
 
