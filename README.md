@@ -245,6 +245,8 @@ Here is the link to my [Flickr Collection](https://www.flickr.com/photos/hayleyg
 Book Covers
 ----------------
 
+For the Book Covers, I had a couple of styles in mind, such as lettering, pattern and typography. I had the idea of lettering as this is an area I have been trying to develop my skills in, and there arn't a lot of book covers with hand-lettering out there. Pattern was inspired by Coralie Bickford-Smith and Marian Bantjes. I love Coralie Bickford-Smiths book cover designs, I think what makes her work more interesting is that she uses inspiration from the books themselves to make her cover designs meaningful.
+
  
 
 
