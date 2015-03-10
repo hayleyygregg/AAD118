@@ -293,14 +293,47 @@ Bantjes also uses the theme of pattern in her work, I found these book covers sh
 ![Faber Finds Book Cover Design](http://www.bantjes.com/sites/default/files/images/pic_ff2.jpg)
 
 
+
 Bantjes also designed many magazine covers:
 
 
 ![Flaunt Magazine](http://www.bantjes.com/sites/default/files/images/pic_flaunt-painting.jpg)
 
 
+![New York Magazine](http://www.bantjes.com/sites/default/files/images/pic_ny1-1.jpg)
+
+![G2 Puzzel Special for Guardian Newspaper](http://www.bantjes.com/sites/default/files/images/pic_G2_puzzle.jpg)
+
+
+![UK Illustration magazine Varoom](http://www.bantjes.com/sites/default/files/bantjes_Varoom-15-1.png)
+
+Most of her work involves elaborate designs, I really loved this image I found on Pinterest which was actually by Jessica Hische dedicated to Bantjes!
+
+![Lace Design by Jessica Hische](https://s-media-cache-ak0.pinimg.com/736x/89/6d/d5/896dd5f8a396b9974409008c9a575608.jpg)
+
+
+Recently Hische designed book covers for the 'Penguin Drop Cap' Series, inspired by what made her sucessful, her '[Daily Drop Cap](http://www.dailydropcap.com)' Project!
+
+
+
+![Penguin Drop Cap Book Covers](http://www.printmag.com/wp-content/uploads/Penguin-Drop-Caps-covers.png)
+
+
+Like Coraline, Hische based each design on the narrative of the story. In a [video](https://www.youtube.com/watch?v=xVoAO-DE7zo) I found on Youtube she talked about the covers and explained that she wanted to capture the idea of the book with the drop cap but in a subtile way rather than being highly illustrated. The video also includes Paul Buckley (the Art Director) who explained that the Drop Cap Series is 26 books from A to Z, so when choosing the colour it was decided it should start at red for A and go down the colour spectrum creating a rainbow of colours when displayed together (similar to Coraline's 'Great Food' series).
+
+
+![Penguin Drop Cap Book Covers](http://www.printmag.com/wp-content/uploads/DropCaps2.jpg)
+
+
+
+
+
+
+
 
 <!--Jan Tschichold Penguin Composition http://retinart.net/graphic-design/jan-tschicholds-inspiring-penguins/-->
+
+
 
 
 
