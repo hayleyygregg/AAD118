@@ -259,21 +259,48 @@ I also love the spines of these books as they work as a collection, which can so
 ![Spine of Great Food Series Book Covers](http://www.designsponge.com/wp-content/uploads/2011/03/1.jpeg)
 
 
-<!--pictures of her work-->
+One of my favourite book cover designs of Coralie's is her Penguin Classics Series. I found [this article](http://www.designsponge.com/2009/10/interview-coralie-bickford-smith-penguin-classics.html) which inspired me as Coralie talks about how she decided to conform to a grid for consistancy and 'a recognizable style that could work across a series of ten or more books, while allowing the covers to convey something of the character of the individual titles.' 
+
+
+![Penguin Classics Series Book Cover Designs](http://thingd-media-ec1.thefancy.com/default/265754035_49f94abc9bad.jpg)
+
+
+
+This is another example of how she cleverly connects and relates the cover design with the book as she explained in [the article](http://www.designsponge.com/2009/10/interview-coralie-bickford-smith-penguin-classics.html):
+
+>> The peacock feather on Dorian Grey, for example, plays on the book’s themes of vanity and the superficial, whereas the leaf motif on Jane Eyre refers directly to the lightning-blasted chestnut tree, a concrete element in the text that serves as a potent symbol of the book’s central relationship.
 
 
 I love Marian Bantjes's work also. At Christmas I purchased some of her books, one being 'I Wonder' which is beautifully designed! The pattern and gold colour used is so eyecatching it just jumps out of the bookshelf!
 
-<!--image-->
+![I Wonder Book Cover](http://www.bantjes.com/sites/default/files/images/bantjes_wonder-cov2.jpg)
  
  
- Coralie has also used eyecatching metallic colours for one of her book cover designs for [F. Scott Fitzgerald, 2010](http://cb-smith.com/f-scott-fitzgerald/):
+Coralie has also used eyecatching metallic colours for one of her book cover designs for [F. Scott Fitzgerald, 2010](http://cb-smith.com/f-scott-fitzgerald/), which is also another favourite of mine:
  
  ![Book Covers](https://timesbytwelve.files.wordpress.com/2011/01/f_scott_fitzgerald.png)
+ 
+
+Recently I discovered the beautiful design for [Pablo Neruda’s Love Poems](http://www.bantjes.com/project/love-poems) by Bantjes, which use copper foil on pink for the cover which really captures the beauty of the work:
+
+
+![Pablo Neruda’s Love Poems Covers](http://www.bantjes.com/sites/default/files/images/pic_neruda.jpg)
+
+
+Bantjes also uses the theme of pattern in her work, I found these book covers she designed which use elaborate borders to decorate the titles. These remind me of the Penguin composition rules that Jan Tschichold created for standardising Penguin book covers.
+
+
+![Faber Finds Book Cover Design](http://www.bantjes.com/sites/default/files/images/pic_ff2.jpg)
+
+
+Bantjes also designed many magazine covers:
+
+
+![Flaunt Magazine](http://www.bantjes.com/sites/default/files/images/pic_flaunt-painting.jpg)
 
 
 
-
+<!--Jan Tschichold Penguin Composition http://retinart.net/graphic-design/jan-tschicholds-inspiring-penguins/-->
 
 
 
