@@ -245,9 +245,31 @@ Here is the link to my [Flickr Collection](https://www.flickr.com/photos/hayleyg
 Book Covers
 ----------------
 
-For the Book Covers, I had a couple of styles in mind, such as lettering, pattern and typography. I had the idea of lettering as this is an area I have been trying to develop my skills in, and there arn't a lot of book covers with hand-lettering out there. Pattern was inspired by Coralie Bickford-Smith and Marian Bantjes. I love Coralie Bickford-Smiths book cover designs, I think what makes her work more interesting is that she uses inspiration from the books themselves to make her cover designs meaningful.
+For the Book Covers, I had a couple of styles in mind, such as lettering, pattern and typography. I had the idea of lettering as this is an area I have been trying to develop my skills in, and there arn't a lot of book covers with hand-lettering out there. 
 
+Pattern was inspired by Coralie Bickford-Smith and Marian Bantjes. I love Coralie Bickford-Smiths book cover designs, I think what makes her work more interesting is that she uses inspiration from the books themselves to make her cover designs meaningful.
+
+An example of this is her 'Great Food' series cover which are [based on ceramic styles from each book’s time period](http://www.designsponge.com/2011/03/coralie-bickford-smith-great-food-covers.html):
+
+![Great Food Series Cover Designs](http://www.bookaholic.ro/wp-content/uploads/2012/10/great-food.jpg)
+
+
+I also love the spines of these books as they work as a collection, which can sometimes be used as a marketing strategy to tempt customers into wanting to purchase the whole series:
+
+![Spine of Great Food Series Book Covers](http://www.designsponge.com/wp-content/uploads/2011/03/1.jpeg)
+
+
+<!--pictures of her work-->
+
+
+I love Marian Bantjes's work also. At Christmas I purchased some of her books, one being 'I Wonder' which is beautifully designed! The pattern and gold colour used is so eyecatching it just jumps out of the bookshelf!
+
+<!--image-->
  
+ 
+ Coralie has also used eyecatching metallic colours for one of her book cover designs for [F. Scott Fitzgerald, 2010](http://cb-smith.com/f-scott-fitzgerald/):
+ 
+ ![Book Covers](https://timesbytwelve.files.wordpress.com/2011/01/f_scott_fitzgerald.png)
 
 
 
