@@ -367,6 +367,26 @@ It took a while, since the superhero 'Typeface' (which I never knew existed) kep
 
 With the help of [FontMeMe](http://fontmeme.com/marvel-font/) I discovered the typeface is called 'Benton Sans' which is unfortunatly not avaliable to download for free, however they did mention a 'very similar' font called Benton Sans Extra Comp Black which I downloaded to try. It was very similar, however, I felt the shapes of the letters weren't the right shape for the drop caps. Therefore I started to manipulate the letters using Illustrator.
 
+While searching for the Marvel typeface I came across Marvel drop caps which show the direction I was going:
+
+
+![Marvel Drop Caps](http://ic.pics.livejournal.com/moonlettuce/730261/449755/449755_600.jpg)
+
+![Marvel Drop Caps](https://s-media-cache-ak0.pinimg.com/236x/79/5b/19/795b1977952bd1bf3136a4bda3c955f4.jpg)
+
+With the image above, A is Captian America. Finding this after my sketches was ironic, but it helped me to ensure I wouldn't do something that had already been done and be a bit different. I had already thought of using the negative space in the A to be the star, but this image can be seen as something that encouraged me to go with my idea.
+
+As I began to turn my sketches to digital I started experimenting with variations, realising I could create very minimal styles which could be either colour or black and white but still instantly recognisable:
+
+<!--show illustrator experiments screenshot-->
+
+
+When finished with the drop caps I thought they were looking more like posters at this point, so I decided to post them to my flickr before I added type:
+
+<!--posters-->
+
+
+
 
 <!--Jan Tschichold Penguin Composition http://retinart.net/graphic-design/jan-tschicholds-inspiring-penguins/-->
 
