@@ -325,6 +325,9 @@ Like Coraline, Hische based each design on the narrative of the story. In a [vid
 ![Penguin Drop Cap Book Covers](http://www.printmag.com/wp-content/uploads/DropCaps2.jpg)
 
 
+This was what inspired one of my ideas for the book covers.  I had been thinking about what genre I would choose for the project, but I struggled with this because as a child I hated reading. It has only been the past couple of years that I have began to read more, and the main reason is to help with studying or learning! The last time I done this project, I chose the theme of Childrens Books, so I wanted to do something different. Although because I don't read a lot I didn't have a lot of choices, as I strongly believed I needed to have an idea of what the book was about in order to capture the story in the cover, the same way Coraline and Hische did. 
+
+Struggling and running out of time, I decided to go with one of my ideas, Comic Books. I had a couple of superheros in mind, but when I researched Batman I realised he was not  part of the [Marvel superheros](http://marvel.com/characters) that my other two ideas (Spiderman and Wolverine) were part of. Therefore I had to choose another character, I thought Iron Man could be quite cool, but I have never seen the movie and thought it wouldn't be the right choice because I don't know a lot about him or the story. In the end I decided to go with Captain America as I remember a lot of my friends would mention him and he had a distinct style of costume which I thought would make the cover instantly recognisable, which is what I would like to achieve.
 
 
 
