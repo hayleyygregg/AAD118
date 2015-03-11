@@ -365,8 +365,7 @@ It took a while, since the superhero 'Typeface' (which I never knew existed) kep
 ![Typeface Superhero](http://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Typefacemu0.png/200px-Typefacemu0.png)
 
 
-With the help of [FontMeMe](http://fontmeme.com/marvel-font/) I discovered the typeface is called 'Benton Sans' which is unfortunatly not avaliable to download for free, however they did mention a 'very similar' font called Benton Sans Extra Comp Black which I downloaded to try.
-
+With the help of [FontMeMe](http://fontmeme.com/marvel-font/) I discovered the typeface is called 'Benton Sans' which is unfortunatly not avaliable to download for free, however they did mention a 'very similar' font called Benton Sans Extra Comp Black which I downloaded to try. It was very similar, however, I felt the shapes of the letters weren't the right shape for the drop caps. Therefore I started to manipulate the letters using Illustrator.
 
 
 <!--Jan Tschichold Penguin Composition http://retinart.net/graphic-design/jan-tschicholds-inspiring-penguins/-->
