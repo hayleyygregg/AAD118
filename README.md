@@ -329,10 +329,43 @@ This was what inspired one of my ideas for the book covers.  I had been thinking
 
 Struggling and running out of time, I decided to go with one of my ideas, Comic Books. I had a couple of superheros in mind, but when I researched Batman I realised he was not  part of the [Marvel superheros](http://marvel.com/characters) that my other two ideas (Spiderman and Wolverine) were part of. Therefore I had to choose another character, I thought Iron Man could be quite cool, but I have never seen the movie and thought it wouldn't be the right choice because I don't know a lot about him or the story. ['Guardians of the Galaxy'](http://marvel.com/characters/70/guardians_of_the_galaxy) seemed to be talked about in our lectures and class, and my friend also did a WAP portrait of 'Groot' who I didn't even  know! So when I seen Groot I thought it would be quite cool to do him, but again I didn't really know him or the team he is part of so I felt it wasn't right. In the end I decided to go with Captain America as I remember a lot of my friends would mention him and he had a distinct style of costume which I thought would make the cover instantly recognisable, which is what I aimed to achieve.
 
-I started sketching ideas, using the inspiration of the Penguin Drop Caps by Jessica Hische, however the difference was each drop cap was the name of the superhero, not the author. With Captain America, it should have really been a C, but researching him he seems to be recognised more by the A as it is even part of his costume. Therefore I felt it was more appropriate as it would help the cover be instantly recognisable.
+I started sketching ideas, using the inspiration of the Penguin Drop Caps by Jessica Hische, however the difference was each drop cap was the name of the superhero, not the author. With Captain America, it should have really been a C, but through research I noticed a pattern of the A (which is also part of his costume) being used to symbolise his character. Therefore I felt it was more appropriate as it would help the cover be instantly recognisable.
+
+![Captain America](http://images.amcnetworks.com/ifc.com/wp-content/uploads/2011/09/092111_captainamerica.jpg)
 
 
+![Captain America](http://worldofteacherfortin.perso.sfr.fr/webquests/captain/wings.jpg)
 
+
+When I researched images of Wolverine there is a pattern of him being recognised for his claws, so I felt this should be included. His costume is also quite striking, so this gave me more ideas.
+
+![Wolverine Costume](http://www.comicbookmovie.com/images/users/uploads/52816/wolverine.gif)
+
+![Wolverine Claw Marks](http://nerdreactor.com/wp-content/uploads/2012/10/the_wolverine.png)
+
+![Wolverine Claw Marks](http://ih1.redbubble.net/image.10737783.8949/fc,550x550,white.u1.jpg)
+
+![Wolverine Claw Marks](https://thoughtsonfilms.files.wordpress.com/2009/05/x-men-origins-wolverine-poster.jpg)
+
+![Wolverine Claw Marks](http://2.bp.blogspot.com/-0rI0bAdr6Fg/Tr1-V6AJXlI/AAAAAAAAALo/o667GXbp4i0/s1600/Realistic%2BWolverine%2BSkin%2BTear%2BTattoo.jpg)
+
+![Poster with Claw Marks similar to Wolverine](http://media.insidepulse.com/zones/insidepulse/uploads/2011/08/wood-teaser-329x500.jpg)
+
+
+For Spiderman, my original idea was to do with hand lettering. I imagined writing Spiderman as part of a spiders web, I had a clear vision in my head, but I found it hard to find an image that portrayed my idea or even think of how to sketch it! Also as I mentioned earlier about time running out, I had to put this idea on hold. Therefore I came up with another idea of the letter S covered in spiderwebs, when I imagined this in my head I seen it as black and white, but experimenting on Illustrator I added a gradient colour using the colours of Spiderman's costume which turned out quite effective.
+
+For the typeface of the drop caps I researched to try and find out the typeface used on the Marvel branding logo:
+
+
+![Marvel Logo](http://fontmeme.com/images/Marvel-Logo.jpg)
+
+
+It took a while, since the superhero 'Typeface' (which I never knew existed) kept popping up!
+
+![Typeface Superhero](http://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Typefacemu0.png/200px-Typefacemu0.png)
+
+
+With the help of [FontMeMe](http://fontmeme.com/marvel-font/) I discovered the typeface is called 'Benton Sans' which is unfortunatly not avaliable to download for free, however they did mention a 'very similar' font called Benton Sans Extra Comp Black which I downloaded to try.
 
 
 
