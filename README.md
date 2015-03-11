@@ -371,6 +371,9 @@ With the help of [FontMeMe](http://fontmeme.com/marvel-font/) I discovered the t
 <!--Jan Tschichold Penguin Composition http://retinart.net/graphic-design/jan-tschicholds-inspiring-penguins/-->
 
 
+<!--icing tutorial http://design.tutsplus.com/tutorials/quick-tip-how-to-create-a-piped-frosting-text-effect--vector-4523 -->
+
+
 
 
 
