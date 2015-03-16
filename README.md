@@ -268,7 +268,7 @@ One of my favourite book cover designs of Coralie's is her Penguin Classics Seri
 
 This is another example of how she cleverly connects and relates the cover design with the book as she explained in [the article](http://www.designsponge.com/2009/10/interview-coralie-bickford-smith-penguin-classics.html):
 
->> The peacock feather on Dorian Grey, for example, plays on the book’s themes of vanity and the superficial, whereas the leaf motif on Jane Eyre refers directly to the lightning-blasted chestnut tree, a concrete element in the text that serves as a potent symbol of the book’s central relationship.
+> The peacock feather on Dorian Grey, for example, plays on the book’s themes of vanity and the superficial, whereas the leaf motif on Jane Eyre refers directly to the lightning-blasted chestnut tree, a concrete element in the text that serves as a potent symbol of the book’s central relationship.
 
 
 I love Marian Bantjes's work also. At Christmas I purchased some of her books, one being 'I Wonder' which is beautifully designed! The pattern and gold colour used is so eyecatching it just jumps out of the bookshelf!
@@ -360,7 +360,12 @@ When I researched images of Wolverine there is a pattern of him being recognised
 For Spiderman, my original idea was to do with hand lettering. I imagined writing Spiderman as part of a spiders web, I had a clear vision in my head, but I found it hard to find an image that portrayed my idea or even think of how to sketch it! 
 
 
+![Writing in a Spiderweb](http://scienceagainstevolution.info/images/v9i9g1.jpg)
+
+
 ![Writing in a Spiderweb](http://pestcemetery.com/wp-content/uploads/2011/02/Picture-24-300x202.png)
+
+![Webs](http://www.2expertsdesign.com/wp-content/uploads/2013/05/BCPSWB02.jpg)
 
 
 
@@ -454,6 +459,21 @@ To ensure each book had the same layout I made a type of template using the firs
 
 [![Book Covers](images/3books-small.png)](https://www.flickr.com/photos/hayleygregg/sets/72157651370717822/)
 
+
+Next to think about was the spine and back of the books. I love the spines of these books I found:
+
+
+![Spine of Books](http://cdnimg.visualizeus.com/thumbs/3f/23/colour,pattern,publication,book,cover,graphicdesign-3f2384aabbc43bbac54cbc9754447e60_h.jpg?ts=93246)
+
+However, I was thinking of keeping more to the style of the Penguin Drop Cap Series.
+
+![Spine of Penguin Drop Cap books](http://thedwsblog.com/wp-content/uploads/sites/29/2013/05/penguin-drop-caps.jpg)
+
+
+<!--to be cont-->
+
+
+
 As previously mentioned, Comic Books was just one of my ideas. My other ideas were more ornamental like Marian Bantjes's style, below is some of the images that appealed to me:
 
 ![Ornamental style](https://www.colourbox.com/preview/9986411-vintage-vector-pattern-hand-drawn-abstract-background-retro-banner-can-be-used-as-book-cover-invitation-wedding-card-abstract-floral-border-lace-pattern-royal-design-element-silver-texture.jpg)
@@ -468,6 +488,8 @@ As previously mentioned, Comic Books was just one of my ideas. My other ideas we
 ![Little Woman](https://m1.behance.net/rendition/modules/26088615/disp/c0dd3f24e8111d791a2f753a3c2ee0f2.jpg)
 
 ![Decorative Book Cover](http://40.media.tumblr.com/3b5a86c3ae7478c5eeba6556d2a3a182/tumblr_nbytxtC0FI1qio719o1_1280.jpg)
+
+![Book Cover](https://c2.staticflickr.com/2/1192/4723939501_fb07647867.jpg)
 
 
 
@@ -527,6 +549,11 @@ Below are a couple I found that kinda give you the jist of what I was going for:
 I was also considering whether a piping bag should be visable:
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3xm_LTPWZj3oxrq5HpQNOm-v6qRltdIqIbzpe6MKHROp9eB0B)
+
+
+The idea I had reminded me of Jessica Hische when she created a series of advertisements for Starbucks which I love:
+
+![Love Your Lattee Jessica Hische](http://41.media.tumblr.com/beb13f404e0188f63a3df557c8effd8b/tumblr_mzdwh5YelD1qd9wy4o4_1280.jpg)
 
 
 I started to sketch an idea:
