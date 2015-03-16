@@ -435,7 +435,7 @@ So I decided to reverse the colours using a white background the same as the Cap
 
 When finished with the drop caps I thought they were looking more like posters at this point, so I decided to post them to my flickr before I added type:
 
-![Minimal Comic Book Posters](images/3posters.png)
+[![Minimal Comic Book Posters](images/3posters.png)](https://www.flickr.com/photos/hayleygregg/sets/72157651281210395/)
 
 
 The composition of the book covers were taken into consideration due to learning about [Jan Tschichold and how he updated the design for Penguin book covers](http://retinart.net/graphic-design/jan-tschicholds-inspiring-penguins/), making subtle changes that made a big difference.
@@ -452,8 +452,7 @@ The layout of Hische's Drop Cap Series influenced the layout of my book covers, 
 To ensure each book had the same layout I made a type of template using the first cover after it had been saved. I then changed the colour of the background, the writing on the bottom and the drop cap in the middle, ensuring it was all in the same position and equal in measurement.
 
 
-<!-- book covers -->
-
+[![Book Covers](images/3books-small.png)](https://www.flickr.com/photos/hayleygregg/sets/72157651370717822/)
 
 As previously mentioned, Comic Books was just one of my ideas. My other ideas were more ornamental like Marian Bantjes's style, below is some of the images that appealed to me:
 
