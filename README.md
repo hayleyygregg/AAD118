@@ -327,7 +327,12 @@ Like Coraline, Hische based each design on the narrative of the story. In a [vid
 
 This was what inspired one of my ideas for the book covers.  I had been thinking about what genre I would choose for the project, but I struggled with this because as a child I hated reading. It has only been the past couple of years that I have began to read more, and the main reason is to help with studying or learning! The last time I done this project, I chose the theme of Childrens Books, so I wanted to do something different. Although because I don't read a lot I didn't have a lot of choices, as I strongly believed I needed to have an idea of what the book was about in order to capture the story in the cover, the same way Coraline and Hische did. 
 
-Struggling and running out of time, I decided to go with one of my ideas, Comic Books. I had a couple of superheros in mind, but when I researched Batman I realised he was not  part of the [Marvel superheros](http://marvel.com/characters) that my other two ideas (Spiderman and Wolverine) were part of. Therefore I had to choose another character, I thought Iron Man could be quite cool, but I have never seen the movie and thought it wouldn't be the right choice because I don't know a lot about him or the story. ['Guardians of the Galaxy'](http://marvel.com/characters/70/guardians_of_the_galaxy) seemed to be talked about in our lectures and class, and my friend also did a WAP portrait of 'Groot' who I didn't even  know! So when I seen Groot I thought it would be quite cool to do him, but again I didn't really know him or the team he is part of so I felt it wasn't right. In the end I decided to go with Captain America as I remember a lot of my friends would mention him and he had a distinct style of costume which I thought would make the cover instantly recognisable, which is what I aimed to achieve.
+Struggling and running out of time, I decided to go with one of my ideas, Comic Books. I had a couple of superheros in mind, but when I researched Batman I realised he was not  part of the [Marvel superheros](http://marvel.com/characters) that my other two ideas (Spiderman and Wolverine) were part of. Therefore I had to choose another character, I thought Iron Man could be quite cool, but I have never seen the movie and thought it wouldn't be the right choice because I don't know a lot about him or the story. ['Guardians of the Galaxy'](http://marvel.com/characters/70/guardians_of_the_galaxy) seemed to be talked about in our lectures and class, and my friend also did a WAP portrait of 'Groot' who I didn't even  know! So when I seen Groot I thought it would be quite cool to do him, but again I didn't really know him or the team he is part of so I felt it wasn't right. 
+
+
+![Groot Character](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7bsiMkzcHTZ0pXZqydvpWtxCoiYxayrj3lZgXnb3T3ELB_MQ8Xg)
+
+In the end I decided to go with Captain America as I remember a lot of my friends would mention him and he had a distinct style of costume which I thought would make the cover instantly recognisable, which is what I aimed to achieve.
 
 I started sketching ideas, using the inspiration of the Penguin Drop Caps by Jessica Hische, however the difference was each drop cap was the name of the superhero, not the author. With Captain America, it should have really been a C, but through research I noticed a pattern of the A (which is also part of his costume) being used to symbolise his character. Therefore I felt it was more appropriate as it would help the cover be instantly recognisable.
 
@@ -352,7 +357,25 @@ When I researched images of Wolverine there is a pattern of him being recognised
 ![Poster with Claw Marks similar to Wolverine](http://media.insidepulse.com/zones/insidepulse/uploads/2011/08/wood-teaser-329x500.jpg)
 
 
-For Spiderman, my original idea was to do with hand lettering. I imagined writing Spiderman as part of a spiders web, I had a clear vision in my head, but I found it hard to find an image that portrayed my idea or even think of how to sketch it! Also as I mentioned earlier about time running out, I had to put this idea on hold. Therefore I came up with another idea of the letter S covered in spiderwebs, when I imagined this in my head I seen it as black and white, but experimenting on Illustrator I added a gradient colour using the colours of Spiderman's costume which turned out quite effective.
+For Spiderman, my original idea was to do with hand lettering. I imagined writing Spiderman as part of a spiders web, I had a clear vision in my head, but I found it hard to find an image that portrayed my idea or even think of how to sketch it! 
+
+
+![Writing in a Spiderweb](http://pestcemetery.com/wp-content/uploads/2011/02/Picture-24-300x202.png)
+
+
+
+Also as I mentioned earlier about time running out, I had to put this idea on hold. Therefore I came up with another idea of the letter S covered in spiderwebs, when I imagined this in my head I seen it as black and white, but experimenting on Illustrator I added a gradient colour using the colours of Spiderman's costume which turned out quite effective.
+
+
+
+![Spiderweb typeface](http://th07.deviantart.net/fs51/PRE/i/2009/315/5/4/Spider_web_typeface_by_markmustaine.jpg)
+
+![Spiderweb typeface](http://nodebox.net/code/data/media/pathfilter2.jpg)
+
+
+![Spiderman costume](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjdCJc5nHERNFrBQawTI2PHSTW6S0Q-j1ziEYXnbGMwIfRoZSdew)
+
+
 
 For the typeface of the drop caps I researched to try and find out the typeface used on the Marvel branding logo:
 
@@ -396,6 +419,14 @@ The layout of Hische's Drop Cap Series influenced the layout of my book covers, 
 
 ![Daily Drop Cap Series by Jessica Hische](http://41.media.tumblr.com/0ec1efc0ab4090450a53204156ff0545/tumblr_n71uixilIE1tw2kf8o8_1280.jpg)
 
+
+To ensure each book had the same layout I made a type of template using the first cover after it had been saved. I then changed the colour of the background, the writing on the bottom and the drop cap in the middle, ensuring it was all in the same position and equal in measurement.
+
+
+<!-- book covers -->
+
+
+As previously mentioned, Comic Books was just one of my ideas. My other ideas 
 
 
 
