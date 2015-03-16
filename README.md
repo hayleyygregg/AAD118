@@ -319,13 +319,13 @@ Recently Hische designed book covers for the 'Penguin Drop Cap' Series, inspired
 ![Penguin Drop Cap Book Covers](http://www.printmag.com/wp-content/uploads/Penguin-Drop-Caps-covers.png)
 
 
-Like Coraline, Hische based each design on the narrative of the story. In a [video](https://www.youtube.com/watch?v=xVoAO-DE7zo) I found on Youtube she talked about the covers and explained that she wanted to capture the idea of the book with the drop cap but in a subtile way rather than being highly illustrated. The video also includes Paul Buckley (the Art Director) who explained that the Drop Cap Series is 26 books from A to Z, so when choosing the colour it was decided it should start at red for A and go down the colour spectrum creating a rainbow of colours when displayed together (similar to Coraline's 'Great Food' series).
+Like Coralie, Hische based each design on the narrative of the story. In a [video](https://www.youtube.com/watch?v=xVoAO-DE7zo) I found on Youtube she talked about the covers and explained that she wanted to capture the idea of the book with the drop cap but in a subtile way rather than being highly illustrated. The video also includes Paul Buckley (the Art Director) who explained that the Drop Cap Series is 26 books from A to Z, so when choosing the colour it was decided it should start at red for A and go down the colour spectrum creating a rainbow of colours when displayed together (similar to Coralie's 'Great Food' series).
 
 
 ![Penguin Drop Cap Book Covers](http://www.printmag.com/wp-content/uploads/DropCaps2.jpg)
 
 
-This was what inspired one of my ideas for the book covers.  I had been thinking about what genre I would choose for the project, but I struggled with this because as a child I hated reading. It has only been the past couple of years that I have began to read more, and the main reason is to help with studying or learning! The last time I done this project, I chose the theme of Childrens Books, so I wanted to do something different. Although because I don't read a lot I didn't have a lot of choices, as I strongly believed I needed to have an idea of what the book was about in order to capture the story in the cover, the same way Coraline and Hische did. 
+This was what inspired one of my ideas for the book covers.  I had been thinking about what genre I would choose for the project, but I struggled with this because as a child I hated reading. It has only been the past couple of years that I have began to read more, and the main reason is to help with studying or learning! The last time I done this project, I chose the theme of Childrens Books, so I wanted to do something different. Although because I don't read a lot I didn't have a lot of choices, as I strongly believed I needed to have an idea of what the book was about in order to capture the story in the cover, the same way Coralie and Hische did. 
 
 Struggling and running out of time, I decided to go with one of my ideas, Comic Books. I had a couple of superheros in mind, but when I researched Batman I realised he was not  part of the [Marvel superheros](http://marvel.com/characters) that my other two ideas (Spiderman and Wolverine) were part of. Therefore I had to choose another character, I thought Iron Man could be quite cool, but I have never seen the movie and thought it wouldn't be the right choice because I don't know a lot about him or the story. ['Guardians of the Galaxy'](http://marvel.com/characters/70/guardians_of_the_galaxy) seemed to be talked about in our lectures and class, and my friend also did a WAP portrait of 'Groot' who I didn't even  know! So when I seen Groot I thought it would be quite cool to do him, but again I didn't really know him or the team he is part of so I felt it wasn't right. 
 
@@ -426,13 +426,94 @@ To ensure each book had the same layout I made a type of template using the firs
 <!-- book covers -->
 
 
-As previously mentioned, Comic Books was just one of my ideas. My other ideas 
+As previously mentioned, Comic Books was just one of my ideas. My other ideas were more ornamental like Marian Bantjes's style, below is some of the images that appealed to me:
+
+![Ornamental style](https://www.colourbox.com/preview/9986411-vintage-vector-pattern-hand-drawn-abstract-background-retro-banner-can-be-used-as-book-cover-invitation-wedding-card-abstract-floral-border-lace-pattern-royal-design-element-silver-texture.jpg)
+
+![Hand Lettering](http://3.bp.blogspot.com/-bUisN4Qvq5E/VEfMB1itRvI/AAAAAAAAB4c/ERhmsKNl_YE/s1600/post1.jpg)
+
+
+![Hand Lettering Pride and Prejudice by Jessica Hische](http://cdn.thewire.com/img/upload/2013/01/14/pride-and-prejudice-book-cover-by-jessica-hische.jpeg)
+
+
+
+![Little Woman](https://m1.behance.net/rendition/modules/26088615/disp/c0dd3f24e8111d791a2f753a3c2ee0f2.jpg)
+
+![Decorative Book Cover](http://40.media.tumblr.com/3b5a86c3ae7478c5eeba6556d2a3a182/tumblr_nbytxtC0FI1qio719o1_1280.jpg)
+
+
+
+![Penguin Threads](http://jilliantamaki.com/wpcore/wp-content/uploads/2012/09/threads21.jpg)
+
+
+I find the Penguin Threads by [Jillian Tamaki](http://jilliantamaki.com/embroidery-textiles/penguin-threads/) very inspiring as she used the method of embroidering which shows that there are a number of methods you can use to create a cover, another example is Coralie who used blueprints for a horror series:
+
+
+![Horror Series by Coralie Bickford Smith](http://s3.amazonaws.com/static.modcult.org/mc/images/thumbs_966-Picture_5.png?1254943373)
+
+
+I found the Black Beauty cover interesting and had ideas of having a decorative design in the shape of a horse (similar to Jillian Tamaki's cover) or have the title in decorative lettering in the shape of a horse.
+
+![](http://jilliantamaki.com/wpcore/wp-content/uploads/2012/09/tamakicoverbb-464x691.jpg)
+
+Below is the only image I can find to kind-of communicate my lettering in a shape idea:
+
+![Lettering](http://blog.spoongraphics.co.uk/wp-content/uploads/2014/typography-illustration/19-lg.jpg)
+
+I also had an idea inspired by my [12 Days side project](https://www.flickr.com/photos/hayleygregg/sets/72157647615681283/) I did at Christmas where I had a series of images created using swirls:
+
+
+![2 Turtle Doves](images/2.png)
+
+
+However, when I looked more into Black Beauty I discovered that it was not part of any book series, so I began to look at publishers such as Ladybird and their [Well Loved Tales](http://en.wikipedia.org/wiki/Well_Loved_Tales) series as I remember having the Rapunzel book when I was younger. This gave me a wide range of books I could choose from, titles that sparked ideas included Jack and the Beanstalk and The Gingerbread Man.
+
+Half-remembering the story to Jack and the Beanstalk, I knew the most recognisable thing would be to incorporate the beanstalk into the lettering, so I began to look for some inspiration:
+
+
+
+![Jack and the Beanstalk](http://static1.squarespace.com/static/52d32028e4b0577bc6fb2058/t/52d3763ce4b0eab6f2d72325/1389590079153/jackandthebeanstalk.png)
+
+
+![Jack and the Beanstalk](http://www.northdevontheatres.org.uk/assets/img/Jack%20Web%20artwork.jpg)
+
+
+Scrolling through my Instagram feed one morning, I came across a hand lettered version of Jack and the Beanstalk by  [lauramcdnld](https://instagram.com/lauramcdnld/) which I found very inspiring!
+
+![Hand Lettering](images/jack-and-the-bean.png)
+
+
+For the Gingerbread man I had a vision of the shape of a Gingerbread Man without the decoration on a rolling board and lettering like icing writing the title of 'The Gingerbread Man' with decorations scattered such as smarties etc around the board in a messy way. I searched 'messy baking' but I wasn't getting results that were communicating the idea I had in my head.
+
+Below are a couple I found that kinda give you the jist of what I was going for:
+
+
+![Undecorated Gingerbread Man](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQFWSbdblk5m2XcLJCJX-_D4N2p75fPrl0aoGx1rE0-vzGceMf)
+
+![Piping on a Biscuit](http://www.parentingfuneveryday.com/wp-content/uploads/piping-icing.jpg)
+
+![Piping decorations onto a Gingerbread Man](https://bakingthroughmsbh.files.wordpress.com/2009/12/piping.jpg)
+
+![Decorated the Ginerbread Man Game](http://2.bp.blogspot.com/-ICh_Pn-p71U/TtlhTqG32OI/AAAAAAAABgw/gri0Q2tMsz8/s1600/The+Gingerbread+Man+With+Everything.PNG)
+
+I was also considering whether a piping bag should be visable:
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3xm_LTPWZj3oxrq5HpQNOm-v6qRltdIqIbzpe6MKHROp9eB0B)
+
+
+I started to sketch an idea:
+
+<!--sketch-->
+
+Then I questioned how I would get the lettering to look like real icing, therefore I searched for tutorials to make sure it was possible. To my surprise it was! I found a [great tutorial](http://design.tutsplus.com/tutorials/quick-tip-how-to-create-a-piped-frosting-text-effect--vector-4523) and followed along to make sure I would be able to do it, here is my attempt:
+
+![Experimenting with tutorial](images/icing-writing.png)
+
+It was a bit complicated, but if I have time I am going to try and do the other words and make this book cover idea come to life.
 
 
 
 
-
-<!--icing tutorial http://design.tutsplus.com/tutorials/quick-tip-how-to-create-a-piped-frosting-text-effect--vector-4523 -->
 
 
 
