@@ -435,7 +435,7 @@ So I decided to reverse the colours using a white background the same as the Cap
 
 When finished with the drop caps I thought they were looking more like posters at this point, so I decided to post them to my flickr before I added type:
 
-<!--posters-->
+![Minimal Comic Book Posters](images/3posters.png)
 
 
 The composition of the book covers were taken into consideration due to learning about [Jan Tschichold and how he updated the design for Penguin book covers](http://retinart.net/graphic-design/jan-tschicholds-inspiring-penguins/), making subtle changes that made a big difference.
