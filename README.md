@@ -401,7 +401,36 @@ With the image above, A is Captian America. Finding this after my sketches was i
 
 As I began to turn my sketches to digital I started experimenting with variations, realising I could create very minimal styles which could be either colour or black and white but still instantly recognisable:
 
-<!--show illustrator experiments screenshot-->
+
+![Minimal Style](images/Capt-Amer-B&W.png)
+
+Greyscale:
+
+![Minimal Style](images/Capt-Amer-NoColour.png)
+
+Reverse:
+
+![Minimal Style](images/Capt-Amer-blackback.png)
+
+
+The reason I used black for the background of the Spiderman one is because I felt it was more appropriate as it would look more like spiderwebs if they were white like the colour of a real spiderweb:
+
+![Minimal Style](images/spiderman-B&W.png)
+
+White Version:
+
+
+![Minimal Style](images/spiderman-whiteback.png)
+
+I think the image below looked a bit too much like a Zebra print:
+
+![Minimal Style](images/wolverine-B&W.png)
+
+So I decided to reverse the colours using a white background the same as the Captain America image, making it really minimal:
+
+![Minimal Style](images/wolverine-minimalB&W.png)
+
+
 
 
 When finished with the drop caps I thought they were looking more like posters at this point, so I decided to post them to my flickr before I added type:
