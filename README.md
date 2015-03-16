@@ -386,9 +386,19 @@ When finished with the drop caps I thought they were looking more like posters a
 <!--posters-->
 
 
+The composition of the book covers were taken into consideration due to learning about [Jan Tschichold and how he updated the design for Penguin book covers](http://retinart.net/graphic-design/jan-tschicholds-inspiring-penguins/), making subtle changes that made a big difference.
+
+![Old Design vs New](http://www.retinart.net/media/images/jan-tschicholds-inspiring-penguins/jan-journey-09A.jpg) 
 
 
-<!--Jan Tschichold Penguin Composition http://retinart.net/graphic-design/jan-tschicholds-inspiring-penguins/-->
+The layout of Hische's Drop Cap Series influenced the layout of my book covers, as the type is small in size which lets the large drop cap be the centre of attention:
+
+
+![Daily Drop Cap Series by Jessica Hische](http://41.media.tumblr.com/0ec1efc0ab4090450a53204156ff0545/tumblr_n71uixilIE1tw2kf8o8_1280.jpg)
+
+
+
+
 
 
 <!--icing tutorial http://design.tutsplus.com/tutorials/quick-tip-how-to-create-a-piped-frosting-text-effect--vector-4523 -->
