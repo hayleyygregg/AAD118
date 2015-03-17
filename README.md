@@ -497,11 +497,11 @@ I struggled with what I wanted the back to look like, I knew that the back of mo
 
 Final Designs:
 
-![Captain America](images/Capt-Amer-bookcover-small.png)
+[![Captain America](images/Capt-Amer-bookcover-small.png)](https://www.flickr.com/photos/hayleygregg/16635649127/)
 
-![Wolverine](images/Wolverine-bookcover-small.png)
+[![Wolverine](images/Wolverine-bookcover-small.png)](https://www.flickr.com/photos/hayleygregg/16841893451/in/photostream/)
 
-![Spiderman](images/Spiderman-bookcover-small.png)
+[![Spiderman](images/Spiderman-bookcover-small.png)](https://www.flickr.com/photos/hayleygregg/16817083506/in/photostream/)
 
 
 As previously mentioned, Comic Books was just one of my ideas. My other ideas were more ornamental like Marian Bantjes's style, below is some of the images that appealed to me:
