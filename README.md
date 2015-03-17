@@ -521,7 +521,7 @@ Final Designs:
 
 I also did a mock up using a free template from [David Wilson on Dribbble](https://dribbble.com/shots/783787-Book-Template-Free-PSD?list=searches&tag=book_psd&offset=2) to show what the books would look like if they were real:
 
-![Book Cover Mockups](images/bookcovers-small.png)
+[![Book Cover Mockups](images/bookcovers-small.png)](https://www.flickr.com/photos/hayleygregg/16221974994/)
 
 
 As previously mentioned, Comic Books was just one of my ideas. My other ideas were more ornamental like Marian Bantjes's style, below is some of the images that appealed to me:
