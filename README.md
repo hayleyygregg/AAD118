@@ -470,8 +470,38 @@ However, I was thinking of keeping more to the style of the Penguin Drop Cap Ser
 ![Spine of Penguin Drop Cap books](http://thedwsblog.com/wp-content/uploads/sites/29/2013/05/penguin-drop-caps.jpg)
 
 
-<!--to be cont-->
+I had two ideas in mind, the first was using spiderman I imagined having a web pattern similar to the pattern inside the S, a bit like the way Coralie used her patterns for the Cloth Bound Classics Series on the spines:
 
+![Cloth Bound Classics Series Spines](http://2.bp.blogspot.com/-4Bt77_Sdyvs/T464foqBLQI/AAAAAAAAAog/J6Uo4DGUY8E/s320/books1.jpg)
+
+
+![Cloth Bound Classics Series](http://thingd-media-ec1.thefancy.com/default/265754035_49f94abc9bad.jpg)
+
+
+However, when I thought about it, Spiderman was easy, but what would I do for the other two? Therefore my second idea was to have little symbols at the bottom of each spine so when you looked at them you knew what the book was about. An example that communicates my idea is the spines for the Boys Adventure Series by Bickford-Smith:
+
+![Book Spines of Boys Adventure Series](https://s-media-cache-ak0.pinimg.com/736x/a2/1b/e9/a21be92bcab5830aa56d5fc9685116d3.jpg)
+
+![Covers of Boys Adventure Series](http://designworklife.com/wp-content/uploads/2010/03/boysadventure_covers.jpg)
+
+
+You can also see the Penguin logo at the top of these spines, however, with the Marvel logo there is no visual identity or symbol, it is just their wordmark. So it made it difficult to incorporate it into the design. Therefore I felt the best place for it was the back. When I seen the image below, I thought about the possibility of having a red strip along the bottom of the books with the marvel logo inside it. However, when I thought about it I thought it would take away from the dropcap.
+
+![Book Cover with strip along the bottom](http://www.penguin.com.au/jpg-large/9780141321097.jpg)
+
+
+I struggled with what I wanted the back to look like, I knew that the back of most books had a barcode and the logo of the publishing company along with some writing. However, as the theme is comic books, I knew that comic book covers didn't have a blurb at the back of them. I tried different variations of using the barcode and Marvel logo, but to me it just wasn't working. Struggling, I tried to find the back of the cover designs I have mentioned throughout, and I finally found the back cover of the Penguin Drop Cap Series by Hische! This helped me so much with the final design.
+
+![Back Cover of Penguin Drop Cap Series](http://thebookdesignblog.com/wp-content/uploads/2013/07/penguin-drop-caps-6.jpg)
+
+
+Final Designs:
+
+![Captain America](images/Capt-Amer-bookcover-small.png)
+
+![Wolverine](images/Wolverine-bookcover-small.png)
+
+![Spiderman](images/Spiderman-bookcover-small.png)
 
 
 As previously mentioned, Comic Books was just one of my ideas. My other ideas were more ornamental like Marian Bantjes's style, below is some of the images that appealed to me:
