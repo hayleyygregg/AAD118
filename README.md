@@ -519,6 +519,11 @@ Final Designs:
 [![Spiderman](images/Spiderman-bookcover-small.png)](https://www.flickr.com/photos/hayleygregg/16817083506/in/photostream/)
 
 
+I also did a mock up using a free template from [David Wilson on Dribbble](https://dribbble.com/shots/783787-Book-Template-Free-PSD?list=searches&tag=book_psd&offset=2) to show what the books would look like if they were real:
+
+![Book Cover Mockups](images/bookcovers-small.png)
+
+
 As previously mentioned, Comic Books was just one of my ideas. My other ideas were more ornamental like Marian Bantjes's style, below is some of the images that appealed to me:
 
 ![Ornamental style](https://www.colourbox.com/preview/9986411-vintage-vector-pattern-hand-drawn-abstract-background-retro-banner-can-be-used-as-book-cover-invitation-wedding-card-abstract-floral-border-lace-pattern-royal-design-element-silver-texture.jpg)
