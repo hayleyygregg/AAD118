@@ -9,7 +9,7 @@ Photography
 ###Research
 
 
-Our first project was to photograph architechture of our choice using the methods of 'Macro' & 'Micro'. Before I began to think of what architecture I could photograph, I researched about photographing architecture to give me ideas and tips:
+Our first project was to photograph architecture of our choice using the methods of 'Macro' & 'Micro'. Before I began to think of what architecture I could photograph, I researched about photographing architecture to give me ideas and tips:
 
 
 * http://www.fotoblur.com/blog/1/architecture-photography-tips
@@ -18,7 +18,7 @@ Our first project was to photograph architechture of our choice using the method
 
 * http://www.digitalcameraworld.com/2012/04/24/16-tips-for-abstract-architecture-photography/
 
-One of the articles that interested me was the heading ['It's not just about buildings'](http://www.photographymad.com/pages/view/guide-to-architectural-photography) which states that when we think of arcitechture we automatically think of buildings, but other 'man-made structures' are considered architecture such as 'bridges, towers, windmills, monuments' etc. When I read this I got the idea of the sculpture at Broadway in Belfast called '[Rise](http://en.wikipedia.org/wiki/Rise_(sculpture))'. I love this sculpture as it is so eyecatching, especially at night when it lights up, and it also has a lot of detail.
+One of the articles that interested me was the heading ['It's not just about buildings'](http://www.photographymad.com/pages/view/guide-to-architectural-photography) which states that when we think of arcitecture we automatically think of buildings, but other 'man-made structures' are considered architecture such as 'bridges, towers, windmills, monuments' etc. When I read this I got the idea of the sculpture at Broadway in Belfast called '[Rise](http://en.wikipedia.org/wiki/Rise_(sculpture))'. I love this sculpture as it is so eye-catching, especially at night when it lights up, and it also has a lot of detail.
 
 With this idea in mind, I also started to research [photographing at night](http://www.digitalcameraworld.com/2012/02/17/night-photography-tips-9-essential-steps-for-beginners/), as some of the websites I found that provided tips suggested photographing architecture at night as sometimes they become more alive.
 
@@ -33,13 +33,13 @@ With this idea in mind, I also started to research [photographing at night](http
 ###Learning Photography
 
 
-For Christmas I was amazed to recieve a Pentax S-K1 from my parents! 
+For Christmas I was amazed to receive a Pentax S-K1 from my parents! 
 
 ![SLR Camera](https://scontent-a-lhr.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10888786_10204088186378906_2164244801196653823_n.jpg?oh=8f4d7666b8757feb6fe95b4b5e5ab79e&oe=55592D9C)
 
 
 
-I'm not big into photography myself, but the work of others does interest me. Therefore I thought this project would be the perfect chance for me to use it! Only thing is, I'm a complete novice to photography, therefore I had to try and learn about Aperature, Exposure, Shutter Speeds and ISO, which I find confusing!
+I'm not big into photography myself, but the work of others does interest me. Therefore I thought this project would be the perfect chance for me to use it! Only thing is, I'm a complete novice to photography, therefore I had to try and learn about Aperture, Exposure, Shutter Speeds and ISO, which I find confusing!
 
 
 A technique that really interests me is [long exposure] (http://www.bwvision.com/ultimate-guide-long-exposure-photography/) as it captures movement that can make for a really nice photo. I first discovered this technique last year when I attempted [Light Painting](https://www.flickr.com/photos/hayleygregg/sets/72157640644359754/):
@@ -49,12 +49,12 @@ A technique that really interests me is [long exposure] (http://www.bwvision.com
 
 
 However, I did not fully understand what was going on as my brother (who is into photography) helped me, so I was interested to find out how to do it and also understand the theory of what is happening. I found a really [helpful article](http://imaging.nikon.com/lineup/dslr/basics/04/02.htm
-) which used animations to show the relationship of Shutter Speed and Aperature and this helped me to understand what happens inside the camera during the task of capturing a photo.
+) which used animations to show the relationship of Shutter Speed and Aperture and this helped me to understand what happens inside the camera during the task of capturing a photo.
 
 
-Struggling to work with and find all the tools on my camera, I had to Google [how to adjust the Aperature and Shutter Speed](http://photo.net/pentax-camera-forum/00NXn9) after having no success with the manual! (embarrassing) I found a nice article which was about [photographing cityscapes at night](https://iso.500px.com/cityscape-night-photography-tips/), even though I'm not photographing a cityscape, it still gives some handy tips and also mentions 'light trails' which involves long exposure.
+Struggling to work with and find all the tools on my camera, I had to Google [how to adjust the Aperture and Shutter Speed](http://photo.net/pentax-camera-forum/00NXn9) after having no success with the manual! (embarrassing) I found a nice article which was about [photographing cityscapes at night](https://iso.500px.com/cityscape-night-photography-tips/), even though I'm not photographing a cityscape, it still gives some handy tips and also mentions 'light trails' which involves long exposure.
 
-An article about ISO on [Digital Trends](http://www.digitaltrends.com/photography/what-is-iso-camera-settings-explained/) helped me understand that the lower the ISO the better quality of the image. I also took composition into consideration, but the term 'composition' doesn't spring anything to my mind, so I decided to research it and I found an article of helpful tips '[7 Rules of Composition](https://urbantimes.co/2011/10/the-art-of-photography-accidental-composition/)' which helped jog my memory in preparation for taking photos. Looking back at the breif I decided to read about [viewpoints](https://urbantimes.co/2012/04/viewpoints-and-camera-angles/) which helped me to trash the idea of just taking a normal/common photo and do something different using angles. 
+An article about ISO on [Digital Trends](http://www.digitaltrends.com/photography/what-is-iso-camera-settings-explained/) helped me understand that the lower the ISO the better quality of the image. I also took composition into consideration, but the term 'composition' doesn't spring anything to my mind, so I decided to research it and I found an article of helpful tips '[7 Rules of Composition](https://urbantimes.co/2011/10/the-art-of-photography-accidental-composition/)' which helped jog my memory in preparation for taking photos. Looking back at the brief I decided to read about [viewpoints](https://urbantimes.co/2012/04/viewpoints-and-camera-angles/) which helped me to trash the idea of just taking a normal/common photo and do something different using angles. 
 
 
 When looking at different photography techniques I came across [Zoom Bursts](http://www.digitalcameraworld.com/2012/07/11/4-ways-to-make-more-creative-zoom-burst-photos/) which can make a really interesting photo and how using long shutter speeds you can actually [capture the earth rotating](http://www.exposureguide.com/night-sky-photography-tips.htm)!
@@ -71,7 +71,7 @@ Someone who is the perfect example of good composition using different viewpoint
 
 ![Upside down Tree](https://farm8.staticflickr.com/7476/15772957159_409d901b94_o.jpg)
 
-####Unsplash Inpiration
+####Unsplash Inspiration
 
 #####Thomas Holtkötter
 
@@ -170,7 +170,7 @@ I researched some photographers in Belfast, specifically trying to find those th
 
 * [Shutterblink](http://www.shutterblink.co.uk)
 
-This is my brothers website. I look up to him for inspiration as over the years he has become very passionate about photography, I always ask him for tips and actually borrowed his tripod for this project! He is very passionate about taking photographs that do not involve extreme editing on Photoshop, he believes the efoort should be put into the settings used to get the best quality photograph. So for this project, I decided to see if he had any images specifically on architecture. 
+This is my brothers website. I look up to him for inspiration as over the years he has become very passionate about photography, I always ask him for tips and actually borrowed his tripod for this project! He is very passionate about taking photographs that do not involve extreme editing on Photoshop, he believes the effort should be put into the settings used to get the best quality photograph. So for this project, I decided to see if he had any images specifically on architecture. 
 
 The closest I could find was images on construction which inspired me to really think about what to capture in the frame:
 
@@ -208,11 +208,11 @@ I chose two from the list, and taking the advice given in class, I decided to en
 ![Email](images/email.jpg)
 
 
-I was very pleased to hear from Susan Smith (Booking & Sales Co-ordinator) after two hours of sending the email! So that week I booked in and when I nervously arrived I was warmly greeted and happily left to do what I had to do!
+I was very pleased to hear from Susan Smith (Booking & Sales Coordinator) after two hours of sending the email! So that week I booked in and when I nervously arrived I was warmly greeted and happily left to do what I had to do!
 
-The reason I chose the Causeway Centre is because I thought it would be something no one else would think of as it is relativly new, and I wanted to be different. I also came across an [article](http://www.dezeen.com/2012/10/18/giants-causeway-visitors-centre-by-heneghan-peng-architects/) which had really nice photos of the Centre.
+The reason I chose the Causeway Centre is because I thought it would be something no one else would think of as it is relatively new, and I wanted to be different. I also came across an [article](http://www.dezeen.com/2012/10/18/giants-causeway-visitors-centre-by-heneghan-peng-architects/) which had really nice photos of the Centre.
 
-The day before the shoot it hit me that I had only researched and been advised by my brother how to shoot at night! So I had to then begin and learn the reccommended settings and advice for shooting during the day! (I also looked into foggy weather as I wasn't sure what the weather would be since it is so unpredictable!) 
+The day before the shoot it hit me that I had only researched and been advised by my brother how to shoot at night! So I had to then begin and learn the recommended settings and advice for shooting during the day! (I also looked into foggy weather as I wasn't sure what the weather would be since it is so unpredictable!) 
 
 Here are two websites that helped me:
 
@@ -220,17 +220,17 @@ Here are two websites that helped me:
 
 * http://digital-photography-school.com/moving-toward-manual-settings-understanding-basic-daylight-exposure-and-equivelant-exposure/
 
-I also learned about the [Sunny 16 rule](http://en.wikipedia.org/wiki/Sunny_16_rule) that other websites had mentioned, which provides reccomendations for what the aperture should be set to in certain conditions.
+I also learned about the [Sunny 16 rule](http://en.wikipedia.org/wiki/Sunny_16_rule) that other websites had mentioned, which provides recomendations for what the aperture should be set to in certain conditions.
 
-Unfortunatly as I took so long taking photos of the building I didn't get a chance to take some of the Causeway or the building at night! (As of course the day of the shoot the sun didnt set until later than usual) However, I was confident I had enough photos to work with.
+Unfortunately as I took so long taking photos of the building I didn't get a chance to take some of the Causeway or the building at night! (As of course the day of the shoot the sun didn't set until later than usual) However, I was confident I had enough photos to work with.
 
 Overall I am very pleased with the results of my [Rise](https://www.flickr.com/photos/hayleygregg/sets/72157650336010408/) and [Causeway Visitor Centre](https://www.flickr.com/photos/hayleygregg/sets/72157648413214674/) photos! However, the hard part is choosing the 6 Macro and Micro!
 
 ###Decision Time
 
-Finally I have made a decision on what photos to use for submission! For over a week I kept looking at both the Rise and Causeway Centre photos and I just couldn't make up my mind! I'm not that good at making decisions in any situation so I seeked someones advice. I asked Richard Weston for his advice, showing him the photos I had taken, as I follow him on Flickr and think he has really interesting photos that take a different perspective on things which I like. We both love the Rise photos but he advised me that I had more to work with using the Causeway photos, and he actually inspired me to revisit some of the photos I had already edited or hadn't used and see if I could crop into them even more, or change the orientation to portrait instead of landscape or vise versa. He also helped me with Photoshop as I don't really know much about retouching and tend to just play around with the brightness, contrast, vibrance and saturation levels.
+Finally I have made a decision on what photos to use for submission! For over a week I kept looking at both the Rise and Causeway Centre photos and I just couldn't make up my mind! I'm not that good at making decisions in any situation so I needed someone's advice. I asked Richard Weston for his advice, showing him the photos I had taken, as I follow him on Flickr and think he has really interesting photos that take a different perspective on things which I like. We both love the Rise photos but he advised me that I had more to work with using the Causeway photos, and he actually inspired me to revisit some of the photos I had already edited or hadn't used and see if I could crop into them even more, or change the orientation to portrait instead of landscape or vise versa. He also helped me with Photoshop as I don't really know much about retouching and tend to just play around with the brightness, contrast, vibrance and saturation levels.
 
-I learned that I can transform images to be portrait by using the Stretch tool in Photoshop which allows you to drag a section of the image and stretch it out to fill the blank space. However, sometimes it doesnt work on some images, but he explained in the case of the sky you can sometimes get away with it without it looking like it's been stretched. This technique is how I came up with both of the images below, which are actually included in my submission:
+I learned that I can transform images to be portrait by using the Stretch tool in Photoshop which allows you to drag a section of the image and stretch it out to fill the blank space. However, sometimes it doesn't work on some images, but he explained in the case of the sky you can sometimes get away with it without it looking like it's been stretched. This technique is how I came up with both of the images below, which are actually included in my submission:
 
 ![Causeway Visitor Centre](images/causeway.jpg)
 
@@ -245,7 +245,7 @@ Here is the link to my [Flickr Collection](https://www.flickr.com/photos/hayleyg
 Book Covers
 ----------------
 
-For the Book Covers, I had a couple of styles in mind, such as lettering, pattern and typography. I had the idea of lettering as this is an area I have been trying to develop my skills in, and there arn't a lot of book covers with hand-lettering out there. 
+For the Book Covers, I had a couple of styles in mind, such as lettering, pattern and typography. I had the idea of lettering as this is an area I have been trying to develop my skills in, and there aren't a lot of book covers with hand-lettering out there. 
 
 Pattern was inspired by Coralie Bickford-Smith and Marian Bantjes. I love Coralie Bickford-Smiths book cover designs, I think what makes her work more interesting is that she uses inspiration from the books themselves to make her cover designs meaningful.
 
@@ -259,7 +259,7 @@ I also love the spines of these books as they work as a collection, which can so
 ![Spine of Great Food Series Book Covers](http://www.designsponge.com/wp-content/uploads/2011/03/1.jpeg)
 
 
-One of my favourite book cover designs of Coralie's is her Penguin Classics Series. I found [this article](http://www.designsponge.com/2009/10/interview-coralie-bickford-smith-penguin-classics.html) which inspired me as Coralie talks about how she decided to conform to a grid for consistancy and 'a recognizable style that could work across a series of ten or more books, while allowing the covers to convey something of the character of the individual titles.' 
+One of my favorite book cover designs of Coralie's is her Penguin Classics Series. I found [this article](http://www.designsponge.com/2009/10/interview-coralie-bickford-smith-penguin-classics.html) which inspired me as Coralie talks about how she decided to conform to a grid for consistency and 'a recognizable style that could work across a series of ten or more books, while allowing the covers to convey something of the character of the individual titles.' 
 
 
 ![Penguin Classics Series Book Cover Designs](http://thingd-media-ec1.thefancy.com/default/265754035_49f94abc9bad.jpg)
@@ -271,12 +271,12 @@ This is another example of how she cleverly connects and relates the cover desig
 > The peacock feather on Dorian Grey, for example, plays on the book’s themes of vanity and the superficial, whereas the leaf motif on Jane Eyre refers directly to the lightning-blasted chestnut tree, a concrete element in the text that serves as a potent symbol of the book’s central relationship.
 
 
-I love Marian Bantjes's work also. At Christmas I purchased some of her books, one being 'I Wonder' which is beautifully designed! The pattern and gold colour used is so eyecatching it just jumps out of the bookshelf!
+I love Marian Bantjes's work also. At Christmas I purchased some of her books, one being 'I Wonder' which is beautifully designed! The pattern and gold colour used is so eye-catching it just jumps out of the bookshelf!
 
 ![I Wonder Book Cover](http://www.bantjes.com/sites/default/files/images/bantjes_wonder-cov2.jpg)
  
  
-Coralie has also used eyecatching metallic colours for one of her book cover designs for [F. Scott Fitzgerald, 2010](http://cb-smith.com/f-scott-fitzgerald/), which is also another favourite of mine:
+Coralie has also used eye-catching metallic colours for one of her book cover designs for [F. Scott Fitzgerald, 2010](http://cb-smith.com/f-scott-fitzgerald/), which is also another favorite of mine:
  
  ![Book Covers](https://timesbytwelve.files.wordpress.com/2011/01/f_scott_fitzgerald.png)
  
@@ -312,22 +312,22 @@ Most of her work involves elaborate designs, I really loved this image I found o
 ![Lace Design by Jessica Hische](https://s-media-cache-ak0.pinimg.com/736x/89/6d/d5/896dd5f8a396b9974409008c9a575608.jpg)
 
 
-Recently Hische designed book covers for the 'Penguin Drop Cap' Series, inspired by what made her sucessful, her '[Daily Drop Cap](http://www.dailydropcap.com)' Project!
+Recently Hische designed book covers for the 'Penguin Drop Cap' Series, inspired by what made her successful, her '[Daily Drop Cap](http://www.dailydropcap.com)' Project!
 
 
 
 ![Penguin Drop Cap Book Covers](http://www.printmag.com/wp-content/uploads/Penguin-Drop-Caps-covers.png)
 
 
-Like Coralie, Hische based each design on the narrative of the story. In a [video](https://www.youtube.com/watch?v=xVoAO-DE7zo) I found on Youtube she talked about the covers and explained that she wanted to capture the idea of the book with the drop cap but in a subtile way rather than being highly illustrated. The video also includes Paul Buckley (the Art Director) who explained that the Drop Cap Series is 26 books from A to Z, so when choosing the colour it was decided it should start at red for A and go down the colour spectrum creating a rainbow of colours when displayed together (similar to Coralie's 'Great Food' series).
+Like Coralie, Hische based each design on the narrative of the story. In a [video](https://www.youtube.com/watch?v=xVoAO-DE7zo) I found on Youtube she talked about the covers and explained that she wanted to capture the idea of the book with the drop cap but in a subtle way rather than being highly illustrated. The video also includes Paul Buckley (the Art Director) who explained that the Drop Cap Series is 26 books from A to Z, so when choosing the colour it was decided it should start at red for A and go down the colour spectrum creating a rainbow of colours when displayed together (similar to Coralie's 'Great Food' series).
 
 
 ![Penguin Drop Cap Book Covers](http://www.printmag.com/wp-content/uploads/DropCaps2.jpg)
 
 
-This was what inspired one of my ideas for the book covers.  I had been thinking about what genre I would choose for the project, but I struggled with this because as a child I hated reading. It has only been the past couple of years that I have began to read more, and the main reason is to help with studying or learning! The last time I done this project, I chose the theme of Childrens Books, so I wanted to do something different. Although because I don't read a lot I didn't have a lot of choices, as I strongly believed I needed to have an idea of what the book was about in order to capture the story in the cover, the same way Coralie and Hische did. 
+This was what inspired one of my ideas for the book covers.  I had been thinking about what genre I would choose for the project, but I struggled with this because as a child I hated reading. It has only been the past couple of years that I have began to read more, and the main reason is to help with studying or learning! The last time I done this project, I chose the theme of Children's Books, so I wanted to do something different. Although because I don't read a lot I didn't have a lot of choices, as I strongly believed I needed to have an idea of what the book was about in order to capture the story in the cover, the same way Coralie and Hische did. 
 
-Struggling and running out of time, I decided to go with one of my ideas, Comic Books. I had a couple of superheros in mind, but when I researched Batman I realised he was not  part of the [Marvel superheros](http://marvel.com/characters) that my other two ideas (Spiderman and Wolverine) were part of. Therefore I had to choose another character, I thought Iron Man could be quite cool, but I have never seen the movie and thought it wouldn't be the right choice because I don't know a lot about him or the story. ['Guardians of the Galaxy'](http://marvel.com/characters/70/guardians_of_the_galaxy) seemed to be talked about in our lectures and class, and my friend also did a WAP portrait of 'Groot' who I didn't even  know! So when I seen Groot I thought it would be quite cool to do him, but again I didn't really know him or the team he is part of so I felt it wasn't right. 
+Struggling and running out of time, I decided to go with one of my ideas, Comic Books. I had a couple of superheroes in mind, but when I researched Batman I realised he was not  part of the [Marvel superheroes](http://marvel.com/characters) that my other two ideas (Spiderman and Wolverine) were part of. Therefore I had to choose another character, I thought Iron Man could be quite cool, but I have never seen the movie and thought it wouldn't be the right choice because I don't know a lot about him or the story. ['Guardians of the Galaxy'](http://marvel.com/characters/70/guardians_of_the_galaxy) seemed to be talked about in our lectures and class, and my friend also did a WAP portrait of 'Groot' who I didn't even  know! So when I seen Groot I thought it would be quite cool to do him, but again I didn't really know him or the team he is part of so I felt it wasn't right. 
 
 
 ![Groot Character](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7bsiMkzcHTZ0pXZqydvpWtxCoiYxayrj3lZgXnb3T3ELB_MQ8Xg)
@@ -374,7 +374,7 @@ For Spiderman, my original idea was to do with hand lettering. I imagined writin
 
 
 
-Also as I mentioned earlier about time running out, I had to put this idea on hold. Therefore I came up with another idea of the letter S covered in spiderwebs, when I imagined this in my head I seen it as black and white, but experimenting on Illustrator I added a gradient colour using the colours of Spiderman's costume which turned out quite effective.
+Also as I mentioned earlier about time running out, I had to put this idea on hold. Therefore I came up with another idea of the letter S covered in spider webs, when I imagined this in my head I seen it as black and white, but experimenting on Illustrator I added a gradient colour using the colours of Spiderman's costume which turned out quite effective.
 
 
 
@@ -398,7 +398,7 @@ It took a while, since the superhero 'Typeface' (which I never knew existed) kep
 ![Typeface Superhero](http://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Typefacemu0.png/200px-Typefacemu0.png)
 
 
-With the help of [FontMeMe](http://fontmeme.com/marvel-font/) I discovered the typeface is called 'Benton Sans' which is unfortunatly not avaliable to download for free, however they did mention a 'very similar' font called Benton Sans Extra Comp Black which I downloaded to try. It was very similar, however, I felt the shapes of the letters weren't the right shape for the drop caps. Therefore I started to manipulate the letters using Illustrator.
+With the help of [FontMeMe](http://fontmeme.com/marvel-font/) I discovered the typeface is called 'Benton Sans' which is unfortunately not available to download for free, however they did mention a 'very similar' font called Benton Sans Extra Comp Black which I downloaded to try. It was very similar, however, I felt the shapes of the letters weren't the right shape for the drop caps. Therefore I started to manipulate the letters using Illustrator.
 
 While searching for the Marvel typeface I came across Marvel drop caps which show the direction I was going:
 
@@ -407,7 +407,7 @@ While searching for the Marvel typeface I came across Marvel drop caps which sho
 
 ![Marvel Drop Caps](https://s-media-cache-ak0.pinimg.com/236x/79/5b/19/795b1977952bd1bf3136a4bda3c955f4.jpg)
 
-With the image above, A is Captian America. Finding this after my sketches was ironic, but it helped me to ensure I wouldn't do something that had already been done and be a bit different. I had already thought of using the negative space in the A to be the star, but this image can be seen as something that encouraged me to go with my idea.
+With the image above, A is Captain America. Finding this after my sketches was ironic, but it helped me to ensure I wouldn't do something that had already been done and be a bit different. I had already thought of using the negative space in the A to be the star, but this image can be seen as something that encouraged me to go with my idea.
 
 As I began to turn my sketches to digital I started experimenting with variations, realising I could create very minimal styles which could be either colour or black and white but still instantly recognisable:
 
@@ -423,7 +423,7 @@ Reverse:
 ![Minimal Style](images/Capt-Amer-blackback.png)
 
 
-The reason I used black for the background of the Spiderman one is because I felt it was more appropriate as it would look more like spiderwebs if they were white like the colour of a real spiderweb:
+The reason I used black for the background of the Spiderman one is because I felt it was more appropriate as it would look more like spider webs if they were white like the colour of a real spider web:
 
 ![Minimal Style](images/spiderman-B&W.png)
 
@@ -453,7 +453,7 @@ The composition of the book covers were taken into consideration due to learning
 ![Old Design vs New](http://www.retinart.net/media/images/jan-tschicholds-inspiring-penguins/jan-journey-09A.jpg) 
 
 
-The layout of Hische's Drop Cap Series influenced the layout of my book covers, as the type is small in size which lets the large drop cap be the centre of attention:
+The layout of Hische's Drop Cap Series influenced the layout of my book covers, as the type is small in size which lets the large drop cap be the center of attention:
 
 
 ![Daily Drop Cap Series by Jessica Hische](http://41.media.tumblr.com/0ec1efc0ab4090450a53204156ff0545/tumblr_n71uixilIE1tw2kf8o8_1280.jpg)
@@ -475,7 +475,7 @@ However, I was thinking of keeping more to the style of the Penguin Drop Cap Ser
 ![Spine of Penguin Drop Cap books](http://thedwsblog.com/wp-content/uploads/sites/29/2013/05/penguin-drop-caps.jpg)
 
 
-I had two ideas in mind, the first was using spiderman I imagined having a web pattern similar to the pattern inside the S, a bit like the way Coralie used her patterns for the Cloth Bound Classics Series on the spines:
+I had two ideas in mind, the first was using Spiderman I imagined having a web pattern similar to the pattern inside the S, a bit like the way Coralie used her patterns for the Cloth Bound Classics Series on the spines:
 
 ![Cloth Bound Classics Series Spines](http://2.bp.blogspot.com/-4Bt77_Sdyvs/T464foqBLQI/AAAAAAAAAog/J6Uo4DGUY8E/s320/books1.jpg)
 
@@ -497,10 +497,10 @@ I discovered Bickford-Smith did something similar for the Boys Adventure Series:
 
 
 
-At the top of the spines is the Penguin logo. With the Marvel logo there is no visual identity or symbol, it is just their wordmark, making it difficult to be incorporated into the design. Therefore I felt the best place for it was the back. 
+At the top of the spines is the Penguin logo. With the Marvel logo there is no visual identity or symbol, it is just their word mark, making it difficult to be incorporated into the design. Therefore I felt the best place for it was the back. 
 
 
-When I seen the image below, I thought about the possibility of having a red strip along the bottom of the books with the marvel logo inside it. However, when I thought about it I thought it would take away from the dropcap.
+When I seen the image below, I thought about the possibility of having a red strip along the bottom of the books with the marvel logo inside it. However, when I thought about it I thought it would take away from the drop cap.
 
 ![Book Cover with strip along the bottom](http://www.penguin.com.au/jpg-large/9780141321097.jpg)
 
@@ -589,16 +589,16 @@ Below are a couple I found that kinda give you the jist of what I was going for:
 
 ![Piping decorations onto a Gingerbread Man](https://bakingthroughmsbh.files.wordpress.com/2009/12/piping.jpg)
 
-![Decorated the Ginerbread Man Game](http://2.bp.blogspot.com/-ICh_Pn-p71U/TtlhTqG32OI/AAAAAAAABgw/gri0Q2tMsz8/s1600/The+Gingerbread+Man+With+Everything.PNG)
+![Decorated the Gingerbread Man Game](http://2.bp.blogspot.com/-ICh_Pn-p71U/TtlhTqG32OI/AAAAAAAABgw/gri0Q2tMsz8/s1600/The+Gingerbread+Man+With+Everything.PNG)
 
-I was also considering whether a piping bag should be visable:
+I was also considering whether a piping bag should be visible:
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3xm_LTPWZj3oxrq5HpQNOm-v6qRltdIqIbzpe6MKHROp9eB0B)
 
 
 The idea I had reminded me of Jessica Hische when she created a series of advertisements for Starbucks which I love:
 
-![Love Your Lattee Jessica Hische](http://41.media.tumblr.com/beb13f404e0188f63a3df557c8effd8b/tumblr_mzdwh5YelD1qd9wy4o4_1280.jpg)
+![Love Your Latte Jessica Hische](http://41.media.tumblr.com/beb13f404e0188f63a3df557c8effd8b/tumblr_mzdwh5YelD1qd9wy4o4_1280.jpg)
 
 
 I started to sketch an idea:
