@@ -334,7 +334,12 @@ Struggling and running out of time, I decided to go with one of my ideas, Comic 
 
 In the end I decided to go with Captain America as I remember a lot of my friends would mention him and he had a distinct style of costume which I thought would make the cover instantly recognisable, which is what I aimed to achieve.
 
-I started sketching ideas, using the inspiration of the Penguin Drop Caps by Jessica Hische, however the difference was each drop cap was the name of the superhero, not the author. With Captain America, it should have really been a C, but through research I noticed a pattern of the A (which is also part of his costume) being used to symbolise his character. Therefore I felt it was more appropriate as it would help the cover be instantly recognisable.
+I started sketching ideas, using the inspiration of the Penguin Drop Caps by Jessica Hische, however the difference was each drop cap was the name of the superhero, not the author. 
+
+![Sketches](images/sketches.jpg)
+
+
+With Captain America, it should have really been a C, but through research I noticed a pattern of the A (which is also part of his costume) being used to symbolise his character. Therefore I felt it was more appropriate as it would help the cover be instantly recognisable.
 
 ![Captain America](http://images.amcnetworks.com/ifc.com/wp-content/uploads/2011/09/092111_captainamerica.jpg)
 
@@ -478,14 +483,24 @@ I had two ideas in mind, the first was using spiderman I imagined having a web p
 ![Cloth Bound Classics Series](http://thingd-media-ec1.thefancy.com/default/265754035_49f94abc9bad.jpg)
 
 
-However, when I thought about it, Spiderman was easy, but what would I do for the other two? Therefore my second idea was to have little symbols at the bottom of each spine so when you looked at them you knew what the book was about. An example that communicates my idea is the spines for the Boys Adventure Series by Bickford-Smith:
+However, when I thought about it, Spiderman was easy, but what would I do for the other two? Therefore my second idea was to have little symbols at the bottom of each spine so when you looked at them you knew what the book was about.
+
+
+![Sketches](images/spine-sketches.jpg)
+
+
+I discovered Bickford-Smith did something similar for the Boys Adventure Series:
 
 ![Book Spines of Boys Adventure Series](https://s-media-cache-ak0.pinimg.com/736x/a2/1b/e9/a21be92bcab5830aa56d5fc9685116d3.jpg)
 
 ![Covers of Boys Adventure Series](http://designworklife.com/wp-content/uploads/2010/03/boysadventure_covers.jpg)
 
 
-You can also see the Penguin logo at the top of these spines, however, with the Marvel logo there is no visual identity or symbol, it is just their wordmark. So it made it difficult to incorporate it into the design. Therefore I felt the best place for it was the back. When I seen the image below, I thought about the possibility of having a red strip along the bottom of the books with the marvel logo inside it. However, when I thought about it I thought it would take away from the dropcap.
+
+At the top of the spines is the Penguin logo. With the Marvel logo there is no visual identity or symbol, it is just their wordmark, making it difficult to be incorporated into the design. Therefore I felt the best place for it was the back. 
+
+
+When I seen the image below, I thought about the possibility of having a red strip along the bottom of the books with the marvel logo inside it. However, when I thought about it I thought it would take away from the dropcap.
 
 ![Book Cover with strip along the bottom](http://www.penguin.com.au/jpg-large/9780141321097.jpg)
 
@@ -588,7 +603,7 @@ The idea I had reminded me of Jessica Hische when she created a series of advert
 
 I started to sketch an idea:
 
-<!--sketch-->
+![Sketch](images/gingerbreadman.jpg)
 
 Then I questioned how I would get the lettering to look like real icing, therefore I searched for tutorials to make sure it was possible. To my surprise it was! I found a [great tutorial](http://design.tutsplus.com/tutorials/quick-tip-how-to-create-a-piped-frosting-text-effect--vector-4523) and followed along to make sure I would be able to do it, here is my attempt:
 
