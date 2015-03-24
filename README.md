@@ -617,7 +617,23 @@ Then I questioned how I would get the lettering to look like real icing, therefo
 It was a bit complicated, but if I have time I am going to try and do the other words and make this book cover idea come to life.
 
 
+For the Uncommon Knowledge project in another module I wanted to try out my maze type as a book cover because I thought it would look cool, as I mentioned I don't really read so I decided to just try it out on the 3 superheroes I had chosen for the book cover project:
 
+
+![Captain America](images/maze-captamer-bookcover.png)
+
+
+![Spiderman](images/maze-spiderman-bookcover.png)
+
+
+![Wolverine](images/maze-wolverine-bookcover.png)
+
+
+
+###Infographics & Data Visualisation
+
+
+![Interactive Infographic](http://everylastdrop.co.uk)
 
 
 
