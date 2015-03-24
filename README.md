@@ -637,7 +637,7 @@ For the Uncommon Knowledge project in another module I wanted to try out my [maz
 ###Infographics & Data Visualisation
 
 
-![Interactive Infographic](http://everylastdrop.co.uk)
+[Interactive Infographic](http://everylastdrop.co.uk)
 
 
 
