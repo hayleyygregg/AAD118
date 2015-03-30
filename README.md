@@ -639,11 +639,93 @@ For the Uncommon Knowledge project in another module I wanted to try out my [maz
 
 [Interactive Infographic](http://everylastdrop.co.uk)
 
+[
+![](images/david-m.png)](http://www.informationisbeautiful.net/visualizations/what-is-meditation-mindfulness-good-for/)
+
+
+[
+![](images/david-m2.png)](http://infobeautiful3.s3.amazonaws.com/2015/02/main_what-makes-a-good-infoviz.png)
 
 
 
 
+[
+![](images/david-m3.png)(http://blog.threestory.com/wordpress/topics/data-visualization)
 
+
+
+[
+![](images/david-m4.png)(https://y2socialcomputing.files.wordpress.com/2012/02/kuler-pulse.jpg)
+
+
+[
+![](images/david-m4.png)(http://www.davidmccandless.com/#influ-venn-za)
+
+
+
+[
+![](images/david-m6.png)(http://www.davidmccandless.com/#how-many-gigatons-of-carbon-dioxide)
+
+
+[
+![](images/david-m7.png)](http://blogs-images.forbes.com/marketshare/files/2012/06/meshu-makes-physical-objects-with-your-location.png)
+
+
+[
+![](images/david-m8.png)](http://infosthetics.com/archives/2014/03/lego_calendar_a_tangible_wall_mounted_planner_that_can_be_digitized.html)
+
+
+[
+![](images/david-m9.png)](http://www.stephenwildish.co.uk/index.html)
+
+
+
+
+[
+![](images/david-m10.png)](http://www.swiss-miss.com/wp-content/uploads/2012/04/tumblr_m1r2mbssHS1rqpa8po1_500-480x515.png)
+
+
+[
+![](images/david-m11.png)](http://www.wefeelfine.org/common/movements/madness-full.jpg)
+
+
+
+[
+![](images/david-m12.png)](http://media.treehugger.com/assets/images/2013/03/World-as-100-People_Jack_Hagley_Infographic.png.492x0_q85_crop-smart.jpg)
+
+
+
+[
+![](images/david-m13.png)](https://thumbnails-visually.netdna-ssl.com/world-population-stats_52cca1d5a8f5e_w1500.png)
+
+
+
+[
+![](images/david-m14.png)](http://fundersandfounders.com/wp-content/uploads/2015/02/what-do-7-billion-people-do-infographic.png)
+
+
+![](http://www.partonbarksiding.com/media/bark-layers-titled_2.jpg)
+
+
+![](https://m1.behance.net/rendition/modules/102122069/disp/53ae0b3b82899d8bc9a3be9b37fb883f.jpg)
+
+
+[![](http://infobeautiful3.s3.amazonaws.com/2014/11/942_Who-rule-the-social-web.png)](http://www.informationisbeautiful.net/2014/who-rules-the-social-web-2/)
+
+![](http://s3.media.squarespace.com/production/482333/5498857/_V1hky3QMM4k/SZ661pgZ87I/AAAAAAAABJs/tomWIcetpzc/s400/chrome_1.jpg)
+
+
+
+![](http://i.kinja-img.com/gawker-media/image/upload/s--hH7I2P9x--/c_fit,fl_progressive,q_80,w_636/18ymoh22sul3lpng.png)
+
+
+inspo making ![](http://cdn.socialmediaexaminer.com/wp-content/uploads/2014/04/je-visually-infographic.jpg)
+
+info for my infographic http://www.livescience.com/41316-11-billion-people-earth.html 
+
+http://www.theguardian.com/environment/2014/sep/18/world-population-new-study-11bn-2100 
+
+![](http://burmatimes.net/wp-content/uploads/2014/09/world_population2.jpg)
 
 
 
