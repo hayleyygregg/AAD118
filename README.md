@@ -637,16 +637,36 @@ For the Uncommon Knowledge project in another module I wanted to try out my [maz
 ###Infographics & Data Visualisation
 
 
-[Interactive Infographic](http://everylastdrop.co.uk)
+Ah, the project I find the most challenging, turning information into a visual language that can be understood at a glance. 
+
+We were told that we could present it as an image or produce an online version, I'm sticking to an image as I find coding too stressful when things go wrong. However, I found this really cool [Interactive Infographic](http://everylastdrop.co.uk), now if I could make something like that I would totally do it - but I don't so I'll stick to what I do best.
+
+As soon as I hear the word Infographic, or Data Visualisation, I automatically think of [David McCandless](http://www.davidmccandless.com) and [Information is Beautiful](http://www.informationisbeautiful.net). I think what McCandless does is amazing, I find this project hard and it only involves a small amount of information compared to what he deals with! Below are some images I liked from his [Information is Beautiful](http://www.informationisbeautiful.net) site:
 
 [
-![](images/david-m.png)](http://www.informationisbeautiful.net/visualizations/what-is-meditation-mindfulness-good-for/)
+![The Effects of Mindfulness](images/david-m.png)](http://www.informationisbeautiful.net/visualizations/what-is-meditation-mindfulness-good-for/)
+
 
 
 [
-![](images/david-m2.png)](http://infobeautiful3.s3.amazonaws.com/2015/02/main_what-makes-a-good-infoviz.png)
+![How many Gigatons of Carbon Dioxide](images/david-m6.png)(http://www.davidmccandless.com/#how-many-gigatons-of-carbon-dioxide)
 
 
+[
+![Circles](images/david-m2.png)](http://infobeautiful3.s3.amazonaws.com/2015/02/main_what-makes-a-good-infoviz.png)
+
+These are very simple designs, which is the kind of style I am considering. The last image is what I am gravitating towards as I like the idea of using shapes, and I think the most appropriate shape is a circle as the world is a sphere. With circles in mind, I started thinking about the shapes you used to draw in school, such as two intersecting circles which through research i discovered is called [Vesica piscis](http://en.wikipedia.org/wiki/Vesica_piscis):
+
+
+![Vesica piscis](http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vesica_Piscis.svg/346px-Vesica_Piscis.svg.png)
+
+
+Well, actually, I eventually discovered I was talking about a Venn Diagram, but hey I learned something new!
+
+![Venn Diagram](http://www.irc.vbschools.com/fortheweb/charts_graphs/images/Venn%20Diagram.jpg)
+
+
+[To be cont...]
 
 
 [
@@ -663,8 +683,6 @@ For the Uncommon Knowledge project in another module I wanted to try out my [maz
 
 
 
-[
-![](images/david-m6.png)(http://www.davidmccandless.com/#how-many-gigatons-of-carbon-dioxide)
 
 
 [
@@ -717,6 +735,9 @@ For the Uncommon Knowledge project in another module I wanted to try out my [maz
 
 
 ![](http://i.kinja-img.com/gawker-media/image/upload/s--hH7I2P9x--/c_fit,fl_progressive,q_80,w_636/18ymoh22sul3lpng.png)
+
+
+![](http://www.artversion.com/wp-content/uploads/2013/09/business-credibility-based-on-website.jpg)
 
 
 inspo making ![](http://cdn.socialmediaexaminer.com/wp-content/uploads/2014/04/je-visually-infographic.jpg)
