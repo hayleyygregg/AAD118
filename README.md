@@ -711,19 +711,67 @@ With circles in mind, I started thinking about part of the topic, the world. I t
 I started sketching and experimenting on Illustrator to see how my idea would look, while I was playing about I discovered a nice colour scheme which I continued to use throughout the development:
 
 
-![Colour Scheme](images/colour-scheme.png)
-
 
 ![Experimenting](images/experimenting.png)
 
 
+![Colour Scheme](images/colour-scheme.png)
+
+
 ![Experimenting](images/experimenting2.png)
+
+
+![Experimenting](images/experimenting3.png)
+
+
 
 
 
 One of my experimentations was placing the circles one ontop of another, shown in the image below, I liked this idea as it reminded me of space and planets.
 
 ![Circles](images/circles.png)
+
+
+From our other modules we had been working on developing icons, this inspired me to use icons as part of the infographic as the whole point is to communicate visually:
+
+
+![Experimenting](images/experimenting8.png)
+
+
+I then started adding typography to these ideas:
+
+
+![Experimenting](images/experimenting6.png)
+
+
+![Experimenting](images/experimenting5.png)
+
+
+![Experimenting](images/experimenting4.png)
+
+
+
+![Experimenting](images/experimenting7.png)
+
+
+
+The image below inspired the layout and the idea of using icons:
+
+
+![Infographic](http://cdn.socialmediaexaminer.com/wp-content/uploads/2014/04/je-visually-infographic.jpg)
+
+
+This helped to shape the presentation of the infographic:
+
+
+![Experimenting](images/experimenting9.png)
+
+
+After our last lecture before Easter, I learned that Infographics and Data Visualisation are actually different! So when I looked back at my early prototypes I realised I didn't have enough information on them to be infographics, therefore I started to search for information I could add. I found a good article by [Live Science](http://www.livescience.com/41316-11-billion-people-earth.html) and [The Guardian](http://www.theguardian.com/environment/2014/sep/18/world-population-new-study-11bn-2100) where I found information to add to my infographic.
+
+
+
+
 
 
 
@@ -775,11 +823,6 @@ One of my experimentations was placing the circles one ontop of another, shown i
 ![](http://www.artversion.com/wp-content/uploads/2013/09/business-credibility-based-on-website.jpg)
 
 
-inspo making ![](http://cdn.socialmediaexaminer.com/wp-content/uploads/2014/04/je-visually-infographic.jpg)
-
-info for my infographic http://www.livescience.com/41316-11-billion-people-earth.html 
-
-http://www.theguardian.com/environment/2014/sep/18/world-population-new-study-11bn-2100 
 
 ![](http://burmatimes.net/wp-content/uploads/2014/09/world_population2.jpg)
 
