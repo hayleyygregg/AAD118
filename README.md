@@ -666,20 +666,70 @@ Well, actually, I eventually discovered I was talking about a Venn Diagram, but 
 ![Venn Diagram](http://www.irc.vbschools.com/fortheweb/charts_graphs/images/Venn%20Diagram.jpg)
 
 
+So I started looking for visualisations with this style:
+
+
+[
+![Infographic using circles](images/david-m3.png)(http://blog.threestory.com/wordpress/topics/data-visualization)
+
+
+
+[
+![Infographic using circles](images/david-m4.png)(https://y2socialcomputing.files.wordpress.com/2012/02/kuler-pulse.jpg)
+
+
+[
+![Infographic by David McCandles](images/david-m5.png)(http://www.davidmccandless.com/#influ-venn-za)
+
+
+[
+![Visualisation by Stephen Wildish](images/david-m9.png)](http://www.stephenwildish.co.uk/index.html)
+
+
+
+
+[
+![Venn Diagram by Wendy MacNaughton](images/david-m10.png)](http://www.swiss-miss.com/wp-content/uploads/2012/04/tumblr_m1r2mbssHS1rqpa8po1_500-480x515.png)
+
+
+[
+![Circles](images/david-m11.png)](http://www.wefeelfine.org/common/movements/madness-full.jpg)
+
+
+
+
+With circles in mind, I started thinking about part of the topic, the world. I then thought about the layers of the earth, like the layers of a tree.
+
+
+![Layers of the Earth](http://www.earthmamasworld.com/wp-content/uploads/layers-of-the-earth-300x220.gif)
+
+
+
+![Layers of a Tree](http://www.partonbarksiding.com/media/bark-layers-titled_2.jpg)
+
+
+I started sketching and experimenting on Illustrator to see how my idea would look, while I was playing about I discovered a nice colour scheme which I continued to use throughout the development:
+
+
+![Colour Scheme](images/colour-scheme.png)
+
+
+![Experimenting](images/experimenting.png)
+
+
+![Experimenting](images/experimenting2.png)
+
+
+
+One of my experimentations was placing the circles one ontop of another, shown in the image below, I liked this idea as it reminded me of space and planets.
+
+![Circles](images/circles.png)
+
+
+
+
 [To be cont...]
 
-
-[
-![](images/david-m3.png)(http://blog.threestory.com/wordpress/topics/data-visualization)
-
-
-
-[
-![](images/david-m4.png)(https://y2socialcomputing.files.wordpress.com/2012/02/kuler-pulse.jpg)
-
-
-[
-![](images/david-m4.png)(http://www.davidmccandless.com/#influ-venn-za)
 
 
 
@@ -691,20 +741,6 @@ Well, actually, I eventually discovered I was talking about a Venn Diagram, but 
 
 [
 ![](images/david-m8.png)](http://infosthetics.com/archives/2014/03/lego_calendar_a_tangible_wall_mounted_planner_that_can_be_digitized.html)
-
-
-[
-![](images/david-m9.png)](http://www.stephenwildish.co.uk/index.html)
-
-
-
-
-[
-![](images/david-m10.png)](http://www.swiss-miss.com/wp-content/uploads/2012/04/tumblr_m1r2mbssHS1rqpa8po1_500-480x515.png)
-
-
-[
-![](images/david-m11.png)](http://www.wefeelfine.org/common/movements/madness-full.jpg)
 
 
 
@@ -722,7 +758,6 @@ Well, actually, I eventually discovered I was talking about a Venn Diagram, but 
 ![](images/david-m14.png)](http://fundersandfounders.com/wp-content/uploads/2015/02/what-do-7-billion-people-do-infographic.png)
 
 
-![](http://www.partonbarksiding.com/media/bark-layers-titled_2.jpg)
 
 
 ![](https://m1.behance.net/rendition/modules/102122069/disp/53ae0b3b82899d8bc9a3be9b37fb883f.jpg)
