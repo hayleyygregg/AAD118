@@ -770,14 +770,19 @@ This helped to shape the presentation of the infographic:
 After our last lecture before Easter, I learned that Infographics and Data Visualisation are actually different! So when I looked back at my early prototypes I realised I didn't have enough information on them to be infographics, therefore I started to search for information I could add. I found a good article by [Live Science](http://www.livescience.com/41316-11-billion-people-earth.html) and [The Guardian](http://www.theguardian.com/environment/2014/sep/18/world-population-new-study-11bn-2100) where I found information to add to my infographic. To display this information, my first prototype used an alarm icon in the center with text surrounding it. 
 
 
+![Bottom section of Infographic](images/threats1.png)
 
 
 However, as I mentioned previously, when I we started focusing on icons in another module it made me realise that images would be recognised faster than words. Therefore the prototype developed to have icons surrounding the center icon. 
 
 
+![Development](images/threats2.png)
+
 
 When I thought I was close to finishing my design I asked for feedback to see if there was anything that needed fixed or improving, as I had a feeling the bottom section about threats wasn't totally there. With the feedback given, it helped me to complete my design by adding a little paragraph above and deciding to have both icon and text to allow viewers to fully understand the information presented. 
 
+
+![Final Development after feedback](images/threats3.png)
 
 
 
