@@ -649,7 +649,7 @@ As soon as I hear the word Infographic, or Data Visualisation, I automatically t
 
 
 [
-![How many Gigatons of Carbon Dioxide](images/david-m6.png)(http://www.davidmccandless.com/#how-many-gigatons-of-carbon-dioxide)
+![How many Gigatons of Carbon Dioxide](images/david-m6.png)](http://www.davidmccandless.com/#how-many-gigatons-of-carbon-dioxide)
 
 
 [
@@ -658,7 +658,7 @@ As soon as I hear the word Infographic, or Data Visualisation, I automatically t
 These are very simple designs, which is the kind of style I am considering. The last image is what I am gravitating towards as I like the idea of using shapes, and I think the most appropriate shape is a circle as the world is a sphere. With circles in mind, I started thinking about the shapes you used to draw in school, such as two intersecting circles which through research i discovered is called [Vesica piscis](http://en.wikipedia.org/wiki/Vesica_piscis):
 
 
-![Vesica piscis](http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vesica_Piscis.svg/346px-Vesica_Piscis.svg.png)
+![Vesica piscis](http://www.daviddarling.info/images/vesica_piscis.jpg)
 
 
 Well, actually, I eventually discovered I was talking about a Venn Diagram, but hey I learned something new!
@@ -670,16 +670,16 @@ So I started looking for visualisations with this style:
 
 
 [
-![Infographic using circles](images/david-m3.png)(http://blog.threestory.com/wordpress/topics/data-visualization)
+![Infographic using circles](images/david-m3.png)](http://blog.threestory.com/wordpress/topics/data-visualization)
 
 
 
 [
-![Infographic using circles](images/david-m4.png)(https://y2socialcomputing.files.wordpress.com/2012/02/kuler-pulse.jpg)
+![Infographic using circles](images/david-m4.png)](https://y2socialcomputing.files.wordpress.com/2012/02/kuler-pulse.jpg)
 
 
 [
-![Infographic by David McCandles](images/david-m5.png)(http://www.davidmccandless.com/#influ-venn-za)
+![Infographic by David McCandles](images/david-m5.png)](http://www.davidmccandless.com/#influ-venn-za)
 
 
 [
@@ -719,9 +719,6 @@ I started sketching and experimenting on Illustrator to see how my idea would lo
 
 
 ![Experimenting](images/experimenting2.png)
-
-
-![Experimenting](images/experimenting3.png)
 
 
 
@@ -785,59 +782,59 @@ When I thought I was close to finishing my design I asked for feedback to see if
 ![Final Development after feedback](images/threats3.png)
 
 
+[See the final draft](https://www.flickr.com/photos/hayleygregg/16800557927/)
 
 
+[![Link to final submission](images/circles.png)](https://www.flickr.com/photos/hayleygregg/16800557927/)
 
 
-[To be cont...]
-
-
+Below is just some other images I found when seeking inspiration for this project:
 
 
 
 
 [
-![](images/david-m7.png)](http://blogs-images.forbes.com/marketshare/files/2012/06/meshu-makes-physical-objects-with-your-location.png)
+![Cool shape](images/david-m7.png)](http://blogs-images.forbes.com/marketshare/files/2012/06/meshu-makes-physical-objects-with-your-location.png)
 
 
 [
-![](images/david-m8.png)](http://infosthetics.com/archives/2014/03/lego_calendar_a_tangible_wall_mounted_planner_that_can_be_digitized.html)
-
-
-
-[
-![](images/david-m12.png)](http://media.treehugger.com/assets/images/2013/03/World-as-100-People_Jack_Hagley_Infographic.png.492x0_q85_crop-smart.jpg)
+![Data Visualisation Calander](images/david-m8.png)](http://infosthetics.com/archives/2014/03/lego_calendar_a_tangible_wall_mounted_planner_that_can_be_digitized.html)
 
 
 
 [
-![](images/david-m13.png)](https://thumbnails-visually.netdna-ssl.com/world-population-stats_52cca1d5a8f5e_w1500.png)
+![The World as 100 people infographic](images/david-m12.png)](http://media.treehugger.com/assets/images/2013/03/World-as-100-People_Jack_Hagley_Infographic.png.492x0_q85_crop-smart.jpg)
 
 
 
 [
-![](images/david-m14.png)](http://fundersandfounders.com/wp-content/uploads/2015/02/what-do-7-billion-people-do-infographic.png)
+![World Population Infographic](images/david-m13.png)](https://thumbnails-visually.netdna-ssl.com/world-population-stats_52cca1d5a8f5e_w1500.png)
+
+
+
+[
+![What 7 billion people do infographic](images/david-m14.png)](http://fundersandfounders.com/wp-content/uploads/2015/02/what-do-7-billion-people-do-infographic.png)
 
 
 
 
-![](https://m1.behance.net/rendition/modules/102122069/disp/53ae0b3b82899d8bc9a3be9b37fb883f.jpg)
+![World Population Infographic](https://m1.behance.net/rendition/modules/102122069/disp/53ae0b3b82899d8bc9a3be9b37fb883f.jpg)
 
 
-[![](http://infobeautiful3.s3.amazonaws.com/2014/11/942_Who-rule-the-social-web.png)](http://www.informationisbeautiful.net/2014/who-rules-the-social-web-2/)
+[![Data Visualisation using symbol](http://infobeautiful3.s3.amazonaws.com/2014/11/942_Who-rule-the-social-web.png)](http://www.informationisbeautiful.net/2014/who-rules-the-social-web-2/)
 
-![](http://s3.media.squarespace.com/production/482333/5498857/_V1hky3QMM4k/SZ661pgZ87I/AAAAAAAABJs/tomWIcetpzc/s400/chrome_1.jpg)
-
-
-
-![](http://i.kinja-img.com/gawker-media/image/upload/s--hH7I2P9x--/c_fit,fl_progressive,q_80,w_636/18ymoh22sul3lpng.png)
-
-
-![](http://www.artversion.com/wp-content/uploads/2013/09/business-credibility-based-on-website.jpg)
+![Visualisation using Circles](http://s3.media.squarespace.com/production/482333/5498857/_V1hky3QMM4k/SZ661pgZ87I/AAAAAAAABJs/tomWIcetpzc/s400/chrome_1.jpg)
 
 
 
-![](http://burmatimes.net/wp-content/uploads/2014/09/world_population2.jpg)
+![Visualisation using symbols](http://i.kinja-img.com/gawker-media/image/upload/s--hH7I2P9x--/c_fit,fl_progressive,q_80,w_636/18ymoh22sul3lpng.png)
+
+
+![Infographic](http://www.artversion.com/wp-content/uploads/2013/09/business-credibility-based-on-website.jpg)
+
+
+
+![Statistics](http://burmatimes.net/wp-content/uploads/2014/09/world_population2.jpg)
 
 
 
