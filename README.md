@@ -632,9 +632,9 @@ For the Uncommon Knowledge project in another module I wanted to try out my [maz
 
 
 
-![Maze Type Sketches for Book Covers](https://www.flickr.com/photos/hayleygregg/17285425986/)
+[![Maze Type Sketches for Book Covers](images/mazetype1.jpg)](https://www.flickr.com/photos/hayleygregg/17285425986/)
 
-![Maze Type Sketches for Book Covers](https://www.flickr.com/photos/hayleygregg/16691126993/in/photostream/)
+[![Maze Type Sketches for Book Covers](images/mazetype2.jpg)](https://www.flickr.com/photos/hayleygregg/16691126993/in/photostream/)
 
 
 
@@ -717,7 +717,7 @@ I started sketching and experimenting on Illustrator to see how my idea would lo
 
 
 
-![Data Visualisation Sketches](https://www.flickr.com/photos/hayleygregg/17285412916/)
+[![Data Visualisation Sketches](images/datavis-sketch.jpg)](https://www.flickr.com/photos/hayleygregg/17285412916/)
 
 
 ![Experimenting](images/experimenting.png)
