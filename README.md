@@ -18,7 +18,7 @@ Our first project was to photograph architecture of our choice using the methods
 
 * http://www.digitalcameraworld.com/2012/04/24/16-tips-for-abstract-architecture-photography/
 
-One of the articles that interested me was the heading ['It's not just about buildings'](http://www.photographymad.com/pages/view/guide-to-architectural-photography) which states that when we think of arcitecture we automatically think of buildings, but other 'man-made structures' are considered architecture such as 'bridges, towers, windmills, monuments' etc. When I read this I got the idea of the sculpture at Broadway in Belfast called '[Rise](http://en.wikipedia.org/wiki/Rise_(sculpture))'. I love this sculpture as it is so eye-catching, especially at night when it lights up, and it also has a lot of detail.
+One of the articles that interested me was the heading ['It's not just about buildings'](http://www.photographymad.com/pages/view/guide-to-architectural-photography) which states that when we think of architecture we automatically think of buildings, but other 'man-made structures' are considered architecture such as 'bridges, towers, windmills, monuments' etc. When I read this I got the idea of the sculpture at Broadway in Belfast called '[Rise](http://en.wikipedia.org/wiki/Rise_(sculpture))'. I love this sculpture as it is so eye-catching, especially at night when it lights up, and it also has a lot of detail.
 
 With this idea in mind, I also started to research [photographing at night](http://www.digitalcameraworld.com/2012/02/17/night-photography-tips-9-essential-steps-for-beginners/), as some of the websites I found that provided tips suggested photographing architecture at night as sometimes they become more alive.
 
@@ -220,7 +220,7 @@ Here are two websites that helped me:
 
 * http://digital-photography-school.com/moving-toward-manual-settings-understanding-basic-daylight-exposure-and-equivelant-exposure/
 
-I also learned about the [Sunny 16 rule](http://en.wikipedia.org/wiki/Sunny_16_rule) that other websites had mentioned, which provides recomendations for what the aperture should be set to in certain conditions.
+I also learned about the [Sunny 16 rule](http://en.wikipedia.org/wiki/Sunny_16_rule) that other websites had mentioned, which provides recommendations for what the aperture should be set to in certain conditions.
 
 Unfortunately as I took so long taking photos of the building I didn't get a chance to take some of the Causeway or the building at night! (As of course the day of the shoot the sun didn't set until later than usual) However, I was confident I had enough photos to work with.
 
@@ -519,7 +519,7 @@ Final Designs:
 [![Spiderman](images/Spiderman-bookcover-small.png)](https://www.flickr.com/photos/hayleygregg/16817083506/in/photostream/)
 
 
-I also did a mock up using a free template from [David Wilson on Dribbble](https://dribbble.com/shots/783787-Book-Template-Free-PSD?list=searches&tag=book_psd&offset=2) to show what the books would look like if they were real:
+I also did a mockup using a free template from [David Wilson on Dribbble](https://dribbble.com/shots/783787-Book-Template-Free-PSD?list=searches&tag=book_psd&offset=2) to show what the books would look like if they were real:
 
 [![Book Cover Mockups](images/bookcovers-small.png)](https://www.flickr.com/photos/hayleygregg/16221974994/)
 
