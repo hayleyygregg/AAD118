@@ -1,0 +1,113 @@
+/* AAD118 STYLESHEET */
+
+* {
+    
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    
+}
+
+
+
+/* STYLE */
+
+
+body {
+    
+    width: 60%;
+    margin: auto;
+    padding: 40px 0;
+    font-family: Helvetica Neue, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 62.5%; /* 1em = 10px */
+    line-height: 1.5;
+    
+}
+
+
+ul {
+    
+    list-style: none;
+    padding: 20px 0;
+    
+}
+
+img {
+    
+    width: 400px;
+    display: block;
+    margin: auto;
+    padding: 40px 0;
+    
+}
+
+
+
+figcaption {
+    
+    
+    text-align: center;
+    padding-bottom: 40px;
+    
+      
+}
+
+h1 {
+    
+    font-size: 6em;
+    
+}
+
+
+
+h2 {
+    
+    font-size: 5em;
+    
+}
+
+
+h3 {
+    
+    font-size: 4em;
+    
+}
+
+h4 {
+    
+    font-size: 3em;
+    
+    
+}
+
+
+h5 {
+    
+    font-size: 2em;
+    
+}
+
+
+p, ul, figcaption {
+    
+    font-size: 1.6em;
+    
+}
+
+
+
+
+h1, h2, h3, h4 {
+    
+    
+    padding: 5px 0;
+    font-weight: 400;
+    
+    
+    
+}
+
+
+
+
